@@ -3,7 +3,7 @@
 <Type>7403</Type>
 <Owndata>0</Owndata>
 <TID>7403</TID>
-<Size>102</Size>
+<Size>103</Size>
 <_XName>Hops</_XName>
 <Allocinc>16</Allocinc>
 <Data><Hops><_MOD_>2003-06-09</_MOD_>
@@ -2297,6 +2297,30 @@ Substitutes: Other high alpha hops</F_H_NOTES>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>0</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2012-07-30</_MOD_>
+<F_H_NAME>Goldings, East Kent</F_H_NAME>
+<F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.0000000</F_H_ALPHA>
+<F_H_BETA>3.5000000</F_H_BETA>
+<F_H_PERCENT>33.3333333</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>35.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Used for: General purpose hops for bittering/finishing all British Ales
+Aroma: Floral, aromatic, earthy, slightly sweet spicy flavor
+Substitutes: Fuggles, BC Goldings
+Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
+</F_H_NOTES>
+<F_H_IBU_CONTRIB>18.9778148</F_H_IBU_CONTRIB>
+<F_ORDER>2</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>0</F_H_IN_RECIPE>
+<F_H_PRICE>2.4000000</F_H_PRICE>
 </Hops>
 </Data>
 <_TExpanded>1</_TExpanded>

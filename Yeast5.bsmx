@@ -3,7 +3,7 @@
 <Type>7426</Type>
 <Owndata>0</Owndata>
 <TID>7426</TID>
-<Size>201</Size>
+<Size>202</Size>
 <_XName>Yeast</_XName>
 <Allocinc>16</Allocinc>
 <Data><Yeast><_MOD_>2011-03-06</_MOD_>
@@ -5637,6 +5637,34 @@ Alcohol Tolerance: 16%</F_Y_NOTES>
 <F_Y_CULTURE_DATE>2011-03-06</F_Y_CULTURE_DATE>
 <F_Y_BEST_FOR>European lagers</F_Y_BEST_FOR>
 <F_Y_NOTES>A famous yeast strain from Weihenstephan Germany used worldwide in brewing.  Their most popular strain for lagers.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2012-07-30</_MOD_>
+<F_Y_NAME>London</F_Y_NAME>
+<F_Y_LAB>Danstar</F_Y_LAB>
+<F_Y_PRODUCT_ID>-</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>6.6500000</F_Y_PRICE>
+<F_ORDER>5</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2012-07-30</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2011-02-27</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Well balanced British style ales.</F_Y_BEST_FOR>
+<F_Y_NOTES>Produces a clean, well balanced ale.  Medium attenuation preserves some beer complexity.</F_Y_NOTES>
 </Yeast>
 </Data>
 <_TExpanded>1</_TExpanded>
