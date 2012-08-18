@@ -3636,15 +3636,15 @@ Caledonian Deuchars IPA (4.4% ABV), Greene King Export Strength IPA (5.0% ABV)</
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.0000000</F_H_AMOUNT>
 <F_H_HSI>35.0000000</F_H_HSI>
-<F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
 <F_H_NOTES>Used for: General purpose hops for bittering/finishing all British Ales
 Aroma: Floral, aromatic, earthy, slightly sweet spicy flavor
 Substitutes: Fuggles, BC Goldings
 Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 </F_H_NOTES>
-<F_H_IBU_CONTRIB>9.4168462</F_H_IBU_CONTRIB>
-<F_ORDER>3</F_ORDER>
+<F_H_IBU_CONTRIB>18.9778148</F_H_IBU_CONTRIB>
+<F_ORDER>2</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.4000000</F_H_PRICE>
@@ -3660,15 +3660,15 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.0000000</F_H_AMOUNT>
 <F_H_HSI>35.0000000</F_H_HSI>
-<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
 <F_H_NOTES>Used for: General purpose hops for bittering/finishing all British Ales
 Aroma: Floral, aromatic, earthy, slightly sweet spicy flavor
 Substitutes: Fuggles, BC Goldings
 Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 </F_H_NOTES>
-<F_H_IBU_CONTRIB>18.9778148</F_H_IBU_CONTRIB>
-<F_ORDER>2</F_ORDER>
+<F_H_IBU_CONTRIB>9.4168462</F_H_IBU_CONTRIB>
+<F_ORDER>3</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.4000000</F_H_PRICE>
