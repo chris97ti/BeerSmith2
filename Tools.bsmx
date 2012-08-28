@@ -90,10 +90,10 @@
 <F_HA_AGE>6.0000000</F_HA_AGE>
 <F_HA_TEMP>28.0000000</F_HA_TEMP>
 </Tool.HopAge>
-<Tool.Refractometer><_MOD_>2012-08-13</_MOD_>
+<Tool.Refractometer><_MOD_>2012-08-24</_MOD_>
 <Calculation>1</Calculation>
-<F_RT_READING>10.0000000</F_RT_READING>
-<F_RT_GRAVITY>1.0100000</F_RT_GRAVITY>
+<F_RT_READING>6.0000000</F_RT_READING>
+<F_RT_GRAVITY>1.0410000</F_RT_GRAVITY>
 </Tool.Refractometer>
 <Tool.YeastStarter><_MOD_>2012-07-18</_MOD_>
 <F_YC_VOL>640.0000000</F_YC_VOL>

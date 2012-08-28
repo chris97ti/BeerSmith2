@@ -6,13 +6,13 @@
 <Size>13</Size>
 <_XName>Recipe</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2012-08-17</_MOD_>
+<Data><Recipe><_MOD_>2012-08-27</_MOD_>
 <F_R_NAME>NB Irish Red</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2012-07-22</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
-<F_R_VOLUME_MEASURED>768.0000000</F_R_VOLUME_MEASURED>
+<F_R_VOLUME_MEASURED>742.4000000</F_R_VOLUME_MEASURED>
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
@@ -1460,17 +1460,17 @@ Examples: Sierra Nevada Pale Ale, Pale Bock</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2012-07-30</_MOD_>
+<Recipe><_MOD_>2012-08-24</_MOD_>
 <F_R_NAME>NB Black IPA</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
-<F_R_DATE>2012-08-29</F_R_DATE>
+<F_R_DATE>2012-08-27</F_R_DATE>
 <F_R_INV_DATE>1990-06-01</F_R_INV_DATE>
 <F_R_VOLUME_MEASURED>0.0000000</F_R_VOLUME_MEASURED>
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
-<F_R_MTIMER_DOWN>3660</F_R_MTIMER_DOWN>
+<F_R_MTIMER_DOWN>3720</F_R_MTIMER_DOWN>
 <F_R_BTIMER_DOWN>2700</F_R_BTIMER_DOWN>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
@@ -1568,16 +1568,16 @@ Eye of the Hawk. </F_S_EXAMPLES>
 <F_S_WEB_LINK></F_S_WEB_LINK>
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2012-07-24</_MOD_>
-<F_MH_NAME>Single Infusion, Light Body, Batch Sparge</F_MH_NAME>
+<F_MH_NAME>Single Infusion, Medium Body</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>204.0000000</F_MH_GRAIN_WEIGHT>
-<F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
+<F_MH_GRAIN_TEMP>80.0000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
-<F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
+<F_MH_TUN_TEMP>80.0000000</F_MH_TUN_TEMP>
 <F_MH_PH>5.4000000</F_MH_PH>
 <F_MH_SPARGE_TEMP>168.0000000</F_MH_SPARGE_TEMP>
-<F_MH_BATCH>1</F_MH_BATCH>
-<F_MH_BATCH_PCT>90.0000000</F_MH_BATCH_PCT>
-<F_MH_BATCH_EVEN>1</F_MH_BATCH_EVEN>
+<F_MH_BATCH>0</F_MH_BATCH>
+<F_MH_BATCH_PCT>100.0000000</F_MH_BATCH_PCT>
+<F_MH_BATCH_EVEN>0</F_MH_BATCH_EVEN>
 <F_MH_BATCH_DRAIN>0</F_MH_BATCH_DRAIN>
 <F_MASH_39>1</F_MASH_39>
 <F_MH_TUN_DEADSPACE>0.0000000</F_MH_TUN_DEADSPACE>
@@ -1589,7 +1589,7 @@ Eye of the Hawk. </F_S_EXAMPLES>
 <Type>7432</Type>
 <Owndata>1</Owndata>
 <TID>7149</TID>
-<Size>1</Size>
+<Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
 <Data><MashStep><_MOD_>1970-04-01</_MOD_>
@@ -1598,23 +1598,42 @@ Eye of the Hawk. </F_S_EXAMPLES>
 <F_MS_INFUSION>510.0000000</F_MS_INFUSION>
 <F_MS_STEP_TEMP>152.0000000</F_MS_STEP_TEMP>
 <F_MS_STEP_TIME>60.0000000</F_MS_STEP_TIME>
-<F_MS_RISE_TIME>1.0000000</F_MS_RISE_TIME>
+<F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
 <F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
 <F_MS_TUN_VOL>1280.0000000</F_MS_TUN_VOL>
-<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
-<F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
+<F_MS_TUN_TEMP>80.0000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>144.0000000</F_MS_TUN_MASS>
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
-<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
+<F_MS_GRAIN_TEMP>80.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>204.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>163.6566382</F_MS_INFUSION_TEMP>
+<F_MS_INFUSION_TEMP>166.1306904</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
+</MashStep>
+<MashStep><_MOD_>2012-08-24</_MOD_>
+<F_MS_NAME>Mash Out</F_MS_NAME>
+<F_MS_TYPE>0</F_MS_TYPE>
+<F_MS_INFUSION>285.6000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>170.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>10.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>1280.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>80.0000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>144.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>152.0000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>80.0000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>510.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>204.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>209.1791418</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 </Data>
 <_TExpanded>1</_TExpanded>
 </steps>
-<F_MH_EQUIP_ADJUST>0</F_MH_EQUIP_ADJUST>
+<F_MH_EQUIP_ADJUST>1</F_MH_EQUIP_ADJUST>
 <F_MH_TUN_VOL>1280.0000000</F_MH_TUN_VOL>
 <F_MH_TUN_MASS>144.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
@@ -1654,22 +1673,22 @@ Eye of the Hawk. </F_S_EXAMPLES>
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
 <F_R_AGE><_MOD_>2012-07-24</_MOD_>
-<F_A_NAME>Ale, Two Stage</F_A_NAME>
+<F_A_NAME>Ale, Single Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
-<F_A_SEC_TEMP>67.0000000</F_A_SEC_TEMP>
-<F_A_SEC_END_TEMP>67.0000000</F_A_SEC_END_TEMP>
+<F_A_SEC_TEMP>65.0000000</F_A_SEC_TEMP>
+<F_A_SEC_END_TEMP>65.0000000</F_A_SEC_END_TEMP>
 <F_A_TERT_TEMP>65.0000000</F_A_TERT_TEMP>
 <F_A_AGE_TEMP>65.0000000</F_A_AGE_TEMP>
 <F_A_TERT_END_TEMP>65.0000000</F_A_TERT_END_TEMP>
 <F_A_END_AGE_TEMP>65.0000000</F_A_END_AGE_TEMP>
 <F_A_END_TEMPS_SET>1</F_A_END_TEMPS_SET>
-<F_A_PRIM_DAYS>4.0000000</F_A_PRIM_DAYS>
+<F_A_PRIM_DAYS>14.0000000</F_A_PRIM_DAYS>
 <F_A_SEC_DAYS>10.0000000</F_A_SEC_DAYS>
 <F_A_TERT_DAYS>7.0000000</F_A_TERT_DAYS>
 <F_A_AGE>30.0000000</F_A_AGE>
-<F_A_TYPE>1</F_A_TYPE>
-<F_A_NOTES></F_A_NOTES>
+<F_A_TYPE>0</F_A_TYPE>
+<F_A_NOTES>A simple single stage fermentation, often used by extract brewers or for classic ales.</F_A_NOTES>
 </F_R_AGE>
 <Ingredients><_MOD_>2012-07-24</_MOD_>
 <Name>Ingredients</Name>
@@ -1680,28 +1699,27 @@ Eye of the Hawk. </F_S_EXAMPLES>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
 <Data><Grain><_MOD_>2012-07-24</_MOD_>
-<F_G_NAME>Pale Malt (2 Row) Bel</F_G_NAME>
-<F_G_ORIGIN>Belgium</F_G_ORIGIN>
+<F_G_NAME>Pale Malt (2 Row) US</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
 <F_G_AMOUNT>184.0000000</F_G_AMOUNT>
-<F_G_COLOR>3.0000000</F_G_COLOR>
-<F_G_YIELD>80.0000000</F_G_YIELD>
+<F_G_COLOR>2.0000000</F_G_COLOR>
+<F_G_YIELD>79.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
 <F_G_PERCENT>83.6363636</F_G_PERCENT>
 <F_ORDER>1</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>60.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>10.5000000</F_G_PROTEIN>
+<F_G_DIASTATIC_POWER>140.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>12.3000000</F_G_PROTEIN>
 <F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
 <F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
 <F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
 <F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Base malt for all beer styles
-Higher potential yield than US, English equivalent pale ale malts</F_G_NOTES>
+<F_G_NOTES>Base malt for all beer styles</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
@@ -1803,7 +1821,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_NOTES>High alpha variety bred by American Dwarf Hop Assoc.  Can be grown commercially on a low trellis.  
 Aroma: Strong citrus, grapefruit notes.
 Substitutes: Warrior, Millenium, Columbus, Tomahawk, Zeus</F_H_NOTES>
-<F_H_IBU_CONTRIB>49.8461648</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>50.1088718</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -1827,7 +1845,7 @@ Used for: Ales, porters, stouts
 Aroma: Heavy and spicy aroma
 Substitutes: Galena, Eroica, Nugget, Bullion
 Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>18.9140901</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>19.0137741</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -1850,7 +1868,7 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 Aroma: Floral, citrus aroma, spicy, clean bittering flavor
 Substitutes: Galena, Eroica, Nugget, Bullion
 Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot</F_H_NOTES>
-<F_H_IBU_CONTRIB>10.6310645</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>10.6870940</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -1874,7 +1892,7 @@ Used for: American ales and lagers
 Aroma: Strong spicy, floral, grapefruit character
 Substitutes: Centennial
 Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>3.2149264</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>3.2318702</F_H_IBU_CONTRIB>
 <F_ORDER>8</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -1942,7 +1960,7 @@ Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot</F_H_NOTES>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>11</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
-<F_Y_BREW_DATE>2012-08-29</F_Y_BREW_DATE>
+<F_Y_BREW_DATE>2012-08-27</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2012-06-27</F_Y_PKG_DATE>
 <F_Y_CELLS>100.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
@@ -1958,23 +1976,23 @@ Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot</F_H_NOTES>
 <F_Y_NOTES>Clean, tart, nutty flavor.  More fruity than Wyeast American Ale yeast.</F_Y_NOTES>
 </Yeast>
 <Hops><_MOD_>2012-07-24</_MOD_>
-<F_H_NAME>Admiral</F_H_NAME>
-<F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
-<F_H_TYPE>0</F_H_TYPE>
+<F_H_NAME>Cascade</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>14.7500000</F_H_ALPHA>
-<F_H_BETA>5.6000000</F_H_BETA>
+<F_H_ALPHA>5.5000000</F_H_ALPHA>
+<F_H_BETA>6.0000000</F_H_BETA>
 <F_H_PERCENT>16.6666667</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.0000000</F_H_AMOUNT>
-<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_HSI>50.0000000</F_H_HSI>
 <F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>7.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Bittering hops derived from Wye Challenger.  Good high-alpha bittering hops.
-Used for: Ales
-Aroma: Primarily for bittering
-Substitutes: Target, Northdown, Challenger
-</F_H_NOTES>
+<F_H_NOTES>A hops with Northern Brewers Heritage
+Used for: American ales and lagers
+Aroma: Strong spicy, floral, grapefruit character
+Substitutes: Centennial
+Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
 <F_ORDER>12</F_ORDER>
 <F_H_USE>1</F_H_USE>
@@ -1993,7 +2011,21 @@ Substitutes: Target, Northdown, Challenger
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_BOIL_VOL_MEASURED>0.0000000</F_R_BOIL_VOL_MEASURED>
 <F_R_OG_BOIL_MEASURED>1.0500000</F_R_OG_BOIL_MEASURED>
-<F_R_NOTES></F_R_NOTES>
+<F_R_NOTES>An ebony pint with a beige head is
+surrounded by an aromatic citrus-and-pine
+force field, backed by a smooth roastiness
+redolent of cocoa and French roast coffee.
+Full-bodied, hop-bitter, and boozy, this
+beer is compelling enough to both fuel and
+quash the argument of its stylistic integrity,
+and it goes great with a blue-cheese stuffed
+sirloin burger or steak.
+
+OG 1.075 READY: 6 WEEKS
+
+Suggested fermentation schedule:
+-- 1-2 weeks primary; 1-2 weeks secondary;
+2 weeks bottle conditioning</F_R_NOTES>
 <F_R_RATING>30.0000000</F_R_RATING>
 <F_R_DESCRIPTION></F_R_DESCRIPTION>
 <F_R_CARB_VOLS>2.3000000</F_R_CARB_VOLS>
@@ -4309,7 +4341,7 @@ Primary for 2 weeks, add drop hops to primary for another 5-7 days.</F_R_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2012-08-17</_MOD_>
+<Recipe><_MOD_>2012-08-18</_MOD_>
 <F_R_NAME>Long Trail Hibernator Clone</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -4349,62 +4381,64 @@ Primary for 2 weeks, add drop hops to primary for another 5-7 days.</F_R_NOTES>
 <F_E_NOTES>Popular 10 gallon setup for all grain brewing.  Uses a 10 gallon water cooler as mash tun for single infusion mashes and a 15 gallon brew pot for full size boil of the 12+ gallons of wort.</F_E_NOTES>
 </F_R_EQUIPMENT>
 <F_R_STYLE><_MOD_>2012-08-17</_MOD_>
-<F_S_NAME>Scottish Ale</F_S_NAME>
-<F_S_CATEGORY>Brown Ale</F_S_CATEGORY>
+<F_S_NAME>Strong Scotch Ale</F_S_NAME>
+<F_S_CATEGORY>Strong Ale (&gt;6% ABV)</F_S_CATEGORY>
 <F_S_GUIDE>AABC 2010</F_S_GUIDE>
-<F_S_LETTER>30</F_S_LETTER>
-<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_LETTER>29</F_S_LETTER>
+<F_S_NUMBER>14</F_S_NUMBER>
 <F_S_TYPE>0</F_S_TYPE>
-<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
-<F_S_MAX_OG>1.0550000</F_S_MAX_OG>
-<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
-<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
-<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
-<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
-<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
-<F_S_MAX_CARB>2.3000000</F_S_MAX_CARB>
-<F_S_MIN_COLOR>9.0000000</F_S_MIN_COLOR>
-<F_S_MAX_COLOR>17.0000000</F_S_MAX_COLOR>
-<F_S_MIN_ABV>4.0000000</F_S_MIN_ABV>
-<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
-<F_S_DESCRIPTION>Low to medium malty sweetness, sometimes accentuated 
-by low to moderate kettle caramelization. Some examples have a 
-low hop aroma, low diacetyl, and/or a low to moderate peaty aroma 
-(all are optional). The peaty aroma is sometimes perceived as 
-earthy, smoky or very lightly roasted. 
-Appearance: Deep amber to dark copper. Usually very clear due 
-to long, cool fermentations. Low to moderate, creamy off-white to 
-light tan-coloured head. 
-Flavour: Malt is the primary flavour, but isn&rsquo;t overly strong. The 
-initial malty sweetness is usually accentuated by a low to moderate 
-kettle caramelization, and is sometimes accompanied by a low 
-diacetyl component. No fruity esters. Hop bitterness is low to 
-moderate, but the balance will always be towards the malt 
-(although not always by much). Hop flavour is low to none. A low 
-to moderate peaty character is optional, and may be perceived as 
-earthy or smoky. Generally has a grainy, dry finish due to small 
-amounts of unmalted roasted barley. 
-Mouthfeel: Medium-low to medium body. Low to moderate 
-carbonation. Sometimes a bit creamy, but often quite dry due to use 
-of roasted barley. </F_S_DESCRIPTION>
-<F_S_PROFILE>Cleanly malty with a drying finish, and on
-occasion a faint bit of peaty earthiness (smoke). Most beers finish
-fairly dry considering their relatively sweet palate, and as such
-have a different balance than strong Scotch ales.</F_S_PROFILE>
-<F_S_INGREDIENTS>Scottish or English pale base malt. Small amounts of 
-roasted barley add colour and flavour, and lend a dry, slightly 
-roasty finish. English hops. Clean, relatively un-attenuative ale 
-yeast. Some commercial brewers add small amounts of crystal, 
-amber, or wheat malts, and adjuncts such as sugar. The optional 
-peaty, earthy and/or smoky character comes from the traditional 
-yeast and from the local malt and water rather than using smoked 
-malts. </F_S_INGREDIENTS>
-<F_S_EXAMPLES>McEwan&rsquo;s 80/- (4.5% ABV), McEwan&rsquo;s 
-90/- (5.5% ABV), Orkney Dark Island (4.6% ABV), Caledonian 
-80/- (4.1% ABV), Broughton Exciseman&rsquo;s 80/- (4.6% ABV), 
-Broughton Black Douglas Ale (5.2% ABV), Belhaven St. Andrews 
-Ale (4.6% ABV), Inveralmond Lia Fail (4.7% ABV), Arran Dark 
-(4.3% ABV) </F_S_EXAMPLES>
+<F_S_MIN_OG>1.0700000</F_S_MIN_OG>
+<F_S_MAX_OG>1.1300000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0180000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0560000</F_S_MAX_FG>
+<F_S_MIN_IBU>17.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>14.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>25.0000000</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>10.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Light copper to dark brown colour, often with deep 
+ruby highlights. Clear. Usually has a large tan head, which may not 
+persist in stronger versions. Legs may be evident in stronger 
+versions. 
+Aroma: Deeply malty, with caramel often apparent. Peaty, earthy 
+and/or smoky secondary aromas may also be present, adding 
+complexity. Caramelization often is mistaken for diacetyl, which 
+should be low to none. Low to moderate esters and alcohol are 
+often present in stronger versions. Hops are very low to none. 
+Flavour: Richly malty with kettle caramelization often apparent 
+(particularly in stronger versions). Hints of roasted malt or smoky 
+flavour may be present, as may some nutty character, all of which 
+may last into the finish. Hop flavours and bitterness are low to 
+medium-low, so malt impression should dominate. Diacetyl is low 
+to none, although caramelization may sometimes be mistaken for it. 
+Low to moderate esters and alcohol are usually present. Esters may 
+suggest plums, raisins or dried fruit. The palate is usually full and 
+sweet, but the finish may be sweet to medium-dry (from light use 
+of roasted barley). 
+Mouthfeel: Medium-full to full-bodied, with some versions (but 
+not all) having a thick, chewy viscosity. A smooth, alcoholic 
+warmth is usually present and is quite welcome since it balances 
+the malty sweetness. Moderate carbonation. </F_S_DESCRIPTION>
+<F_S_PROFILE>Rich, malty and usually sweet, which can be
+suggestive of a dessert. Complex secondary malt flavours prevent a
+one-dimensional impression. Strength and maltiness can vary.</F_S_PROFILE>
+<F_S_INGREDIENTS>Well-modified pale malt, with up to 3% roasted 
+barley. May use some crystal malt for colour adjustment; sweetness 
+usually comes not from crystal malts rather from low hopping, high 
+mash temperatures, and kettle caramelization. A small proportion 
+of smoked malt may add depth, though a peaty character 
+(sometimes perceived as earthy or smoky) may also originate from 
+the yeast and native water. Hop presence is minimal, although 
+English varieties are most authentic. Fairly soft water is typical. 
+
+</F_S_INGREDIENTS>
+<F_S_EXAMPLES>McEwan&#39;s Scotch Ale, Belhaven Wee
+Heavy, MacAndrew&#39;s Scotch Ale, Traquair House Ale, Orkney
+Skull Splitter, Broughton Old Jock, Scotch du Silly, Gordon
+Highland Scotch Ale, Founders Dirty Bastard</F_S_EXAMPLES>
 <F_S_WEB_LINK></F_S_WEB_LINK>
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2012-08-17</_MOD_>
@@ -5604,24 +5638,6 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Misc><_MOD_>2012-08-17</_MOD_>
-<F_M_NAME>Apricot Puree</F_M_NAME>
-<F_M_TYPE>3</F_M_TYPE>
-<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
-<F_M_TEMP_VOL>704.0000000</F_M_TEMP_VOL>
-<F_M_UNITS>3</F_M_UNITS>
-<F_M_AMOUNT>3.3000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>3</F_M_USE>
-<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
-<F_M_TIME>7.0000000</F_M_TIME>
-<F_M_NOTES>Apricot flavor extract.  Mix into beer just before bottling.  Adds apricot flavor to light ales and wheat beers.  Use low hop rate to allow sweet flavor through.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>8</F_ORDER>
-</Misc>
 <Hops><_MOD_>2012-08-17</_MOD_>
 <F_H_NAME>Warrior</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
@@ -5720,6 +5736,24 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_Y_BEST_FOR>British bitters and pale ales.</F_Y_BEST_FOR>
 <F_Y_NOTES>From Suffolk county.  Products complex fruity and citrus flavors.  Slight sulfer production, but this will fade with ageing.</F_Y_NOTES>
 </Yeast>
+<Misc><_MOD_>2012-08-17</_MOD_>
+<F_M_NAME>Apricot Puree</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>704.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>3</F_M_UNITS>
+<F_M_AMOUNT>3.3000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Apricot flavor extract.  Mix into beer just before bottling.  Adds apricot flavor to light ales and wheat beers.  Use low hop rate to allow sweet flavor through.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>8</F_ORDER>
+</Misc>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
@@ -5761,7 +5795,7 @@ http://www.clubhomebrew.com/index.php?page=recipeDetail&amp;&amp;filter=VTBrewer
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2012-08-17</_MOD_>
+<Recipe><_MOD_>2012-08-18</_MOD_>
 <F_R_NAME>My LT coffe stout clone</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -5888,7 +5922,7 @@ Blackout Stout
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2012-08-17</_MOD_>
 <F_MH_NAME>Single Infusion, Full Body</F_MH_NAME>
-<F_MH_GRAIN_WEIGHT>252.0000000</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_WEIGHT>220.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
 <F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
@@ -5914,7 +5948,7 @@ Blackout Stout
 <Data><MashStep><_MOD_>2012-08-18</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>630.0000000</F_MS_INFUSION>
+<F_MS_INFUSION>550.0000000</F_MS_INFUSION>
 <F_MS_STEP_TEMP>156.0000000</F_MS_STEP_TEMP>
 <F_MS_STEP_TIME>45.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
@@ -5926,14 +5960,14 @@ Blackout Stout
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>252.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>167.7615408</F_MS_INFUSION_TEMP>
+<F_MS_GRAIN_WEIGHT>220.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>167.6951156</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 <MashStep><_MOD_>2012-08-17</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>252.0000000</F_MS_INFUSION>
+<F_MS_INFUSION>220.0000000</F_MS_INFUSION>
 <F_MS_STEP_TEMP>168.0000000</F_MS_STEP_TEMP>
 <F_MS_STEP_TIME>10.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
@@ -5944,9 +5978,9 @@ Blackout Stout
 <F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
 <F_MS_START_TEMP>156.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
-<F_MS_START_VOL>655.6000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>252.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>203.5902869</F_MS_INFUSION_TEMP>
+<F_MS_START_VOL>575.6000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>220.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>203.7676029</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 </Data>
@@ -5992,29 +6026,29 @@ Blackout Stout
 <F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
 <F_R_AGE><_MOD_>2012-08-17</_MOD_>
-<F_A_NAME>Ale, Two Stage</F_A_NAME>
+<F_A_NAME>Ale, Single Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
-<F_A_SEC_TEMP>67.0000000</F_A_SEC_TEMP>
-<F_A_SEC_END_TEMP>67.0000000</F_A_SEC_END_TEMP>
+<F_A_SEC_TEMP>65.0000000</F_A_SEC_TEMP>
+<F_A_SEC_END_TEMP>65.0000000</F_A_SEC_END_TEMP>
 <F_A_TERT_TEMP>65.0000000</F_A_TERT_TEMP>
 <F_A_AGE_TEMP>65.0000000</F_A_AGE_TEMP>
 <F_A_TERT_END_TEMP>65.0000000</F_A_TERT_END_TEMP>
 <F_A_END_AGE_TEMP>65.0000000</F_A_END_AGE_TEMP>
 <F_A_END_TEMPS_SET>1</F_A_END_TEMPS_SET>
-<F_A_PRIM_DAYS>4.0000000</F_A_PRIM_DAYS>
+<F_A_PRIM_DAYS>14.0000000</F_A_PRIM_DAYS>
 <F_A_SEC_DAYS>10.0000000</F_A_SEC_DAYS>
 <F_A_TERT_DAYS>7.0000000</F_A_TERT_DAYS>
 <F_A_AGE>30.0000000</F_A_AGE>
-<F_A_TYPE>1</F_A_TYPE>
-<F_A_NOTES></F_A_NOTES>
+<F_A_TYPE>0</F_A_TYPE>
+<F_A_NOTES>A simple single stage fermentation, often used by extract brewers or for classic ales.</F_A_NOTES>
 </F_R_AGE>
 <Ingredients><_MOD_>2012-08-17</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>7</Size>
+<Size>8</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
 <Data><Grain><_MOD_>2012-08-18</_MOD_>
@@ -6024,11 +6058,11 @@ Blackout Stout
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>224.0000000</F_G_AMOUNT>
+<F_G_AMOUNT>192.0000000</F_G_AMOUNT>
 <F_G_COLOR>3.0000000</F_G_COLOR>
 <F_G_YIELD>80.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>88.8888889</F_G_PERCENT>
+<F_G_PERCENT>81.3559322</F_G_PERCENT>
 <F_ORDER>1</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
@@ -6055,7 +6089,7 @@ Higher potential yield than US, English equivalent pale ale malts</F_G_NOTES>
 <F_G_COLOR>120.0000000</F_G_COLOR>
 <F_G_YIELD>72.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>6.3492063</F_G_PERCENT>
+<F_G_PERCENT>6.7796610</F_G_PERCENT>
 <F_ORDER>2</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
@@ -6082,7 +6116,7 @@ Also called &quot;Crystal&quot; malt.  Very Dark</F_G_NOTES>
 <F_G_COLOR>450.0000000</F_G_COLOR>
 <F_G_YIELD>73.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>3.1746032</F_G_PERCENT>
+<F_G_PERCENT>3.3898305</F_G_PERCENT>
 <F_ORDER>3</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
@@ -6110,7 +6144,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_COLOR>500.0000000</F_G_COLOR>
 <F_G_YIELD>55.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>1.5873016</F_G_PERCENT>
+<F_G_PERCENT>1.6949153</F_G_PERCENT>
 <F_ORDER>4</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>6.0000000</F_G_MOISTURE>
@@ -6122,6 +6156,32 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Dark color and dry roasted flavor characteristic of Stouts and Porters
 Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger amounts.</F_G_NOTES>
+<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2012-08-18</_MOD_>
+<F_G_NAME>Brown Sugar, Dark</F_G_NAME>
+<F_G_ORIGIN>US</F_G_ORIGIN>
+<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_TYPE>2</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>16.0000000</F_G_AMOUNT>
+<F_G_COLOR>50.0000000</F_G_COLOR>
+<F_G_YIELD>100.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>6.7796610</F_G_PERCENT>
+<F_ORDER>5</F_ORDER>
+<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>120.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Imparts a rich sweet flavor. Used in Scottish ales, holiday ales and some old ales.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
@@ -6143,8 +6203,8 @@ Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger
 Used for: Bittering, flavor, aroma - IPA, American Pale Ale, Stout, Lager
 Aroma: Pungent, spicy. Strongly aromatic, but clean tasting bitterness
 Substitutes: Centennial</F_H_NOTES>
-<F_H_IBU_CONTRIB>37.1109091</F_H_IBU_CONTRIB>
-<F_ORDER>5</F_ORDER>
+<F_H_IBU_CONTRIB>37.3738351</F_H_IBU_CONTRIB>
+<F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
@@ -6166,8 +6226,8 @@ Substitutes: Centennial</F_H_NOTES>
 Used for: Bittering, flavor, aroma - IPA, American Pale Ale, Stout, Lager
 Aroma: Pungent, spicy. Strongly aromatic, but clean tasting bitterness
 Substitutes: Centennial</F_H_NOTES>
-<F_H_IBU_CONTRIB>15.5344935</F_H_IBU_CONTRIB>
-<F_ORDER>6</F_ORDER>
+<F_H_IBU_CONTRIB>15.6445535</F_H_IBU_CONTRIB>
+<F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
@@ -6183,7 +6243,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
 <F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
-<F_ORDER>7</F_ORDER>
+<F_ORDER>8</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
 <F_Y_BREW_DATE>2012-08-17</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2012-08-27</F_Y_PKG_DATE>
