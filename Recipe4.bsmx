@@ -6,13 +6,13 @@
 <Size>13</Size>
 <_XName>Recipe</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2012-08-17</_MOD_>
+<Data><Recipe><_MOD_>2012-08-27</_MOD_>
 <F_R_NAME>NB Irish Red</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2012-07-22</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
-<F_R_VOLUME_MEASURED>768.0000000</F_R_VOLUME_MEASURED>
+<F_R_VOLUME_MEASURED>742.4000000</F_R_VOLUME_MEASURED>
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
@@ -5638,24 +5638,6 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Misc><_MOD_>2012-08-17</_MOD_>
-<F_M_NAME>Apricot Puree</F_M_NAME>
-<F_M_TYPE>3</F_M_TYPE>
-<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
-<F_M_TEMP_VOL>704.0000000</F_M_TEMP_VOL>
-<F_M_UNITS>3</F_M_UNITS>
-<F_M_AMOUNT>3.3000000</F_M_AMOUNT>
-<F_M_VOLUME>640.0000000</F_M_VOLUME>
-<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
-<F_M_PRICE>0.2500000</F_M_PRICE>
-<F_M_USE>3</F_M_USE>
-<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
-<F_M_TIME>7.0000000</F_M_TIME>
-<F_M_NOTES>Apricot flavor extract.  Mix into beer just before bottling.  Adds apricot flavor to light ales and wheat beers.  Use low hop rate to allow sweet flavor through.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>8</F_ORDER>
-</Misc>
 <Hops><_MOD_>2012-08-17</_MOD_>
 <F_H_NAME>Warrior</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
@@ -5754,6 +5736,24 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_Y_BEST_FOR>British bitters and pale ales.</F_Y_BEST_FOR>
 <F_Y_NOTES>From Suffolk county.  Products complex fruity and citrus flavors.  Slight sulfer production, but this will fade with ageing.</F_Y_NOTES>
 </Yeast>
+<Misc><_MOD_>2012-08-17</_MOD_>
+<F_M_NAME>Apricot Puree</F_M_NAME>
+<F_M_TYPE>3</F_M_TYPE>
+<F_M_USE_FOR>Fruit Beer</F_M_USE_FOR>
+<F_M_TEMP_VOL>704.0000000</F_M_TEMP_VOL>
+<F_M_UNITS>3</F_M_UNITS>
+<F_M_AMOUNT>3.3000000</F_M_AMOUNT>
+<F_M_VOLUME>640.0000000</F_M_VOLUME>
+<F_M_INVENTORY>0.0000000</F_M_INVENTORY>
+<F_M_PRICE>0.2500000</F_M_PRICE>
+<F_M_USE>3</F_M_USE>
+<F_M_TIME_UNITS>2</F_M_TIME_UNITS>
+<F_M_TIME>7.0000000</F_M_TIME>
+<F_M_NOTES>Apricot flavor extract.  Mix into beer just before bottling.  Adds apricot flavor to light ales and wheat beers.  Use low hop rate to allow sweet flavor through.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>8</F_ORDER>
+</Misc>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>

@@ -3040,7 +3040,7 @@ Substitutes: Hallertauer Mittelfrueh</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2012-08-17</_MOD_>
+<Recipe><_MOD_>2012-08-29</_MOD_>
 <F_R_NAME>Dry Dock SS Minow</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -3358,7 +3358,7 @@ Also called &quot;Crystal&quot; malt.  Very Dark</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 60L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-08-16</_MOD_>
+<Grain><_MOD_>2012-08-29</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -3445,8 +3445,8 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
 <F_R_OG_MEASURED>1.0410000</F_R_OG_MEASURED>
-<F_R_FG_MEASURED>1.0120000</F_R_FG_MEASURED>
-<F_R_OG_PRIMARY>1.0150000</F_R_OG_PRIMARY>
+<F_R_FG_MEASURED>1.0110000</F_R_FG_MEASURED>
+<F_R_OG_PRIMARY>1.0110000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_BOIL_VOL_MEASURED>960.0000000</F_R_BOIL_VOL_MEASURED>
 <F_R_OG_BOIL_MEASURED>1.0260000</F_R_OG_BOIL_MEASURED>
@@ -6333,7 +6333,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Popular 10 gallon setup for all grain brewing.  Uses a 10 gallon water cooler as mash tun for single infusion mashes and a 15 gallon brew pot for full size boil of the 12+ gallons of wort.</F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2012-08-29</_MOD_>
 <F_S_NAME>American Amber Ale</F_S_NAME>
 <F_S_CATEGORY>American Pale Ale</F_S_CATEGORY>
 <F_S_GUIDE>BJCP 1999</F_S_GUIDE>
@@ -6481,7 +6481,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_A_TYPE>0</F_A_TYPE>
 <F_A_NOTES>A simple single stage fermentation, often used by extract brewers or for classic ales.</F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2012-08-29</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Owndata>1</Owndata>
@@ -6515,7 +6515,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2012-08-29</_MOD_>
 <F_G_NAME>Munich Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -6543,7 +6543,7 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2012-08-29</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 80L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -6570,7 +6570,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2012-08-29</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 60L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
