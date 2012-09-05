@@ -3,9 +3,24 @@
 <Type>8344</Type>
 <Owndata>1</Owndata>
 <TID>8344</TID>
-<Size>0</Size>
+<Size>3</Size>
 <_XName>Plugin</_XName>
 <Allocinc>16</Allocinc>
-<Data></Data>
+<Data><Plugin><_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Briess Malts (66 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Briess.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Thomas Fawcett Malts (14 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Thomas_Fawcett.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Weyermann Malts (30 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Weyermann.bsmx</F_PLUG_FILE>
+</Plugin>
+</Data>
 <_TExpanded>1</_TExpanded>
 </Plugin>

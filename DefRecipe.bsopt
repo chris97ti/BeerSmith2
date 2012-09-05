@@ -13,7 +13,7 @@
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>2012-08-29</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2012-09-05</_MOD_>
 <F_E_NAME>My All Grain</F_E_NAME>
 <F_E_MASH_VOL>1280.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>144.0000000</F_E_TUN_MASS>
@@ -62,7 +62,7 @@
 <F_S_EXAMPLES>North Coast Red Seal Ale, Fat Tire Amber Ale, Full Sail Amber Ale</F_S_EXAMPLES>
 <F_S_WEB_LINK></F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>2012-08-29</_MOD_>
+<F_R_MASH><_MOD_>2012-09-05</_MOD_>
 <F_MH_NAME>Single Infusion, Light Body, No Mash Out</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>160.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
@@ -79,7 +79,7 @@
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>2012-08-29</_MOD_>
+<steps><_MOD_>2012-09-05</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Owndata>1</Owndata>
@@ -148,7 +148,7 @@
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>2012-08-29</_MOD_>
+<F_R_AGE><_MOD_>2012-09-05</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
