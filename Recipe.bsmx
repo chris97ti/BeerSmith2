@@ -3472,7 +3472,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2012-08-17</_MOD_>
+<Recipe><_MOD_>2012-09-05</_MOD_>
 <F_R_NAME>NB Winter Warmer</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -3730,30 +3730,29 @@ Highland Scotch Ale, Founders Dirty Bastard</F_S_EXAMPLES>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-08-17</_MOD_>
-<F_G_NAME>Caramel/Crystal Malt - 60L</F_G_NAME>
-<F_G_ORIGIN>US</F_G_ORIGIN>
-<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_NAME>Crystal Malt - 60L (Thomas Fawcett)</F_G_NAME>
+<F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
+<F_G_SUPPLIER>Thomas Fawcett &amp; Sons</F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
 <F_G_AMOUNT>16.0000000</F_G_AMOUNT>
 <F_G_COLOR>60.0000000</F_G_COLOR>
-<F_G_YIELD>74.0000000</F_G_YIELD>
+<F_G_YIELD>74.4000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
 <F_G_PERCENT>7.8431373</F_G_PERCENT>
 <F_ORDER>2</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
 <F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>13.2000000</F_G_PROTEIN>
+<F_G_PROTEIN>11.7000000</F_G_PROTEIN>
 <F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
 <F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
 <F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Adds body, color and improves head retention.
-Also called &quot;Crystal&quot; malt.</F_G_NOTES>
+<F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES>Caramel or crystal malt from Thomas Fawcett.  Adds Toffee caramel flavor.  Improves head retention and body.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-08-17</_MOD_>
@@ -3801,7 +3800,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 Aroma: Mild, grassy, floral, slightly spicy
 Substitutes: Fuggles, East Kent Goldings
 Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
-<F_H_IBU_CONTRIB>40.3928776</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>40.3860341</F_H_IBU_CONTRIB>
 <F_ORDER>4</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -3824,7 +3823,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 Aroma: Mild, grassy, floral, slightly spicy
 Substitutes: Fuggles, East Kent Goldings
 Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
-<F_H_IBU_CONTRIB>7.3226575</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>7.3214169</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -7156,7 +7155,7 @@ Examples: Sierra Nevada Pale Ale, Pale Bock</F_H_NOTES>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2012-09-05</F_R_DATE>
-<F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
+<F_R_INV_DATE>1990-06-01</F_R_INV_DATE>
 <F_R_VOLUME_MEASURED>640.0000000</F_R_VOLUME_MEASURED>
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
@@ -7344,12 +7343,12 @@ Lost Coast Downtown Brown, Big Sky Moose Drool Brown Ale
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </F_R_BASE_GRAIN>
 <F_R_CARB><_MOD_>2012-09-05</_MOD_>
-<F_C_NAME>Corn Sugar</F_C_NAME>
-<F_C_TEMPERATURE>70.0000000</F_C_TEMPERATURE>
-<F_C_TYPE>0</F_C_TYPE>
-<F_C_PRIMER_NAME>Corn Sugar</F_C_PRIMER_NAME>
+<F_C_NAME>Keg</F_C_NAME>
+<F_C_TEMPERATURE>45.0000000</F_C_TEMPERATURE>
+<F_C_TYPE>1</F_C_TYPE>
+<F_C_PRIMER_NAME>Forced Carbonation</F_C_PRIMER_NAME>
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
-<F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
+<F_C_NOTES>Keg with forced carbonation which is the method used by most home brewers with kegs</F_C_NOTES>
 </F_R_CARB>
 <F_R_AGE><_MOD_>2012-09-05</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
@@ -7374,7 +7373,7 @@ Lost Coast Downtown Brown, Big Sky Moose Drool Brown Ale
 <Type>7405</Type>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>8</Size>
+<Size>9</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
 <Data><Grain><_MOD_>2012-09-05</_MOD_>
@@ -7585,6 +7584,34 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
+<Yeast><_MOD_>1969-12-31</_MOD_>
+<F_Y_NAME>British Ale</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP005</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.2000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>9</F_ORDER>
+<F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2012-09-05</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2012-09-27</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>67.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>67.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Excellent for all English style ales including bitters, pale ale, porters and brown ale.</F_Y_BEST_FOR>
+<F_Y_NOTES>This yeast has higher attenuation than the White Labs English Ale yeast strains.  Produces a malty flavored beer.</F_Y_NOTES>
+</Yeast>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
