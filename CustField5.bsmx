@@ -3,7 +3,7 @@
 <Type>8031</Type>
 <Owndata>1</Owndata>
 <TID>8031</TID>
-<Size>10</Size>
+<Size>11</Size>
 <_XName>CustField</_XName>
 <Allocinc>16</Allocinc>
 <Data><CustField><_MOD_>2011-02-27</_MOD_>
@@ -35,6 +35,9 @@
 </CustField>
 <CustField><_MOD_>2012-07-18</_MOD_>
 <F_CUSTOM_ID>7205</F_CUSTOM_ID>
+</CustField>
+<CustField><_MOD_>2012-08-29</_MOD_>
+<F_CUSTOM_ID>7187</F_CUSTOM_ID>
 </CustField>
 </Data>
 <_TExpanded>1</_TExpanded>
