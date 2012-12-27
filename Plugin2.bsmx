@@ -6,17 +6,17 @@
 <Size>3</Size>
 <_XName>Plugin</_XName>
 <Allocinc>16</Allocinc>
-<Data><Plugin><_MOD_>1969-12-31</_MOD_>
+<Data><Plugin><_MOD_>2012-09-06</_MOD_>
 <F_PLUG_NAME>Briess Malts (66 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Briess.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2012-09-06</_MOD_>
 <F_PLUG_NAME>Thomas Fawcett Malts (14 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Thomas_Fawcett.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2012-09-06</_MOD_>
 <F_PLUG_NAME>Weyermann Malts (30 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Weyermann.bsmx</F_PLUG_FILE>
