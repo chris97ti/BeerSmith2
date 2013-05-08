@@ -3,7 +3,7 @@
 <Type>7406</Type>
 <Owndata>0</Owndata>
 <TID>7406</TID>
-<Size>213</Size>
+<Size>207</Size>
 <_XName>Grain</_XName>
 <Allocinc>16</Allocinc>
 <Data><Grain><_MOD_>2003-02-20</_MOD_>
@@ -810,7 +810,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2003-02-20</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -835,10 +835,10 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 Use for: Brown ales, porters, some stouts
 Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_PRICE>0.1468750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2003-02-20</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -863,7 +863,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 Use for: Brown ales, porters, some stouts
 Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_PRICE>0.1468750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2004-10-15</_MOD_>
@@ -1394,7 +1394,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 <F_G_PRICE>0.1900000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2003-02-20</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Rice Hulls</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -1419,7 +1419,7 @@ Use as a base malt for any ale or lager.</F_G_NOTES>
 Hulls are neutral in flavor, body and color, and are inert
 Good for wheat beers, Wits, and others that have high protein mashes.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_PRICE>0.1187500</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2003-02-20</_MOD_>
@@ -1692,7 +1692,7 @@ Use for Bavarian wheats, weizens, weiss and dunkel weizen styles.</F_G_NOTES>
 <F_G_PRICE>0.1900000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2003-06-26</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Munich Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -1717,7 +1717,7 @@ Use for Bavarian wheats, weizens, weiss and dunkel weizen styles.</F_G_NOTES>
 Does not contribute signficantly to body or head retention.
 Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_PRICE>0.1156250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2003-06-26</_MOD_>
@@ -2069,7 +2069,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2003-03-19</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Brown Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -2092,7 +2092,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Imparts a dry, biscuit flavor. Used in nut brown ales, porters and some Belgian ales.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 60L</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2003-06-26</_MOD_>
@@ -2306,7 +2306,7 @@ Lower diastatic power than American 2 Row Pale Malt</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2003-11-24</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -2329,7 +2329,7 @@ Lower diastatic power than American 2 Row Pale Malt</F_G_NOTES>
 <F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Premium base malt from the UK.  Popular for many English styles of beer including ales, pale ales and bitters.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0800000</F_G_PRICE>
+<F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2003-02-20</_MOD_>
@@ -2734,7 +2734,7 @@ Used in Weiss, Wit and White beers</F_G_NOTES>
 <F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Pale Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Thomas Fawcett</F_G_SUPPLIER>
@@ -2757,7 +2757,7 @@ Used in Weiss, Wit and White beers</F_G_NOTES>
 <F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES></F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.1562500</F_G_PRICE>
+<F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -2790,7 +2790,7 @@ Munich-style malt that will contribute an intensely malty flavor and aroma.
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caravienne Malt</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Barley, Flaked (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -2814,7 +2814,7 @@ Munich-style malt that will contribute an intensely malty flavor and aroma.
 <F_G_NOTES>Use at 10-25% to produce a light colored, mild flavored, dry beer.
 </F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1531250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -2848,7 +2848,7 @@ Use 5-15% for dry Stout</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Black Malt - 2-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -2875,10 +2875,10 @@ Provides color and sharp, almost acrid, flavor characteristic of Stouts and Port
 Use 1-10% for desired color in Porter and Stout.
 has a distinctive malty flavor not interchangeable with Roasted Barley</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Black Malt - 6-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -2905,7 +2905,7 @@ Provides color and sharp, almost acrid, flavor characteristic of Stouts and Port
 Use 1-10% for desired color in Porter and Stout.
 has a distinctive malty flavor not interchangeable with Roasted Barley</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -3023,38 +3023,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
-<F_G_NAME>Caramel Malt - 10L 6-Row (Briess)</F_G_NAME>
-<F_G_ORIGIN>US</F_G_ORIGIN>
-<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
-<F_G_TYPE>0</F_G_TYPE>
-<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
-<F_G_COLOR>10.0000000</F_G_COLOR>
-<F_G_YIELD>75.0000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>0.0000000</F_G_PERCENT>
-<F_ORDER>0</F_ORDER>
-<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>7.0000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Candy-like Sweetness, Mild Carmel
-Golden Color
-3-7% in Pilsener for balance
-5-15% for color, sweetness &amp;color to light amber beers
-CHAR
-glassy endosperm create desirable non-fermentables giving ability to contrib&#39; body &amp; head retention &amp; stability </F_G_NOTES>
-<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
-<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
-</Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Caramel Malt - 120L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -3082,69 +3051,7 @@ Deep Red Color
 7-15% in Dark beers
 10-15% in Porter &amp;Stout</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
-<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
-</Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
-<F_G_NAME>Caramel Malt - 120L 6-Row (Briess)</F_G_NAME>
-<F_G_ORIGIN>US</F_G_ORIGIN>
-<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
-<F_G_TYPE>0</F_G_TYPE>
-<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
-<F_G_COLOR>120.0000000</F_G_COLOR>
-<F_G_YIELD>70.0000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>0.0000000</F_G_PERCENT>
-<F_ORDER>0</F_ORDER>
-<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>3.0000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Pronounced Caramel, Burnt Sugar, Raisiny, Prunes
-Deep Red Color
-3-15% in Amber &amp;Red beers.
-10-15% in Bock
-7-15% in Dark beers
-10-15% in Porter &amp;Stout</F_G_NOTES>
-<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
-<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
-</Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
-<F_G_NAME>Caramel Malt - 120L Organic (Briess)</F_G_NAME>
-<F_G_ORIGIN>US</F_G_ORIGIN>
-<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
-<F_G_TYPE>0</F_G_TYPE>
-<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
-<F_G_COLOR>120.0000000</F_G_COLOR>
-<F_G_YIELD>70.0000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>0.0000000</F_G_PERCENT>
-<F_ORDER>0</F_ORDER>
-<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>3.0000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Pronounced Caramel, Burnt Sugar, Raisiny, Prunes
-Deep Red Color
-3-15% in Amber &amp;Red beers.
-10-15% in Bock
-7-15% in Dark beers
-10-15% in Porter &amp;Stout</F_G_NOTES>
-<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -3240,7 +3147,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Caramel Malt - 40L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -3268,38 +3175,7 @@ Golden to lighr red hues
 CHAR
 glassy endosperm create desirable non-fermentables giving ability to contrib&#39; body &amp; head retention &amp; stability </F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
-<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
-</Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
-<F_G_NAME>Caramel Malt - 40L 6-Row (Briess)</F_G_NAME>
-<F_G_ORIGIN>US</F_G_ORIGIN>
-<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
-<F_G_TYPE>0</F_G_TYPE>
-<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
-<F_G_COLOR>40.0000000</F_G_COLOR>
-<F_G_YIELD>73.0000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>0.0000000</F_G_PERCENT>
-<F_ORDER>0</F_ORDER>
-<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Sweet, Caramel, Toffee
-Golden to lighr red hues
-3-7% in Pilsener for balance
-5-15% for color, sweetness &amp;color to light amber beers
-CHAR
-glassy endosperm create desirable non-fermentables giving ability to contrib&#39; body &amp; head retention &amp; stability </F_G_NOTES>
-<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -3333,7 +3209,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -3361,72 +3237,10 @@ Deep Golden to Red color
 CHAR
 glassy endosperm create desirable non-fermentables giving ability to contrib&#39; body &amp; head retention &amp; stabili</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
-<F_G_NAME>Caramel Malt - 60L 6-Row (Briess)</F_G_NAME>
-<F_G_ORIGIN>US</F_G_ORIGIN>
-<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
-<F_G_TYPE>0</F_G_TYPE>
-<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
-<F_G_COLOR>60.0000000</F_G_COLOR>
-<F_G_YIELD>73.0000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>0.0000000</F_G_PERCENT>
-<F_ORDER>0</F_ORDER>
-<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Sweet, Pronounced Caramel
-Golden to lighr red hues
-3-7% in Pilsener for balance
-5-15% for color, sweetness &amp;color to light amber beers
-CHAR
-glassy endosperm create desirable non-fermentables giving ability to contrib&#39; body &amp; head retention &amp; stabili</F_G_NOTES>
-<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
-<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
-</Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
-<F_G_NAME>Caramel Malt - 60L Organic (Briess)</F_G_NAME>
-<F_G_ORIGIN>US</F_G_ORIGIN>
-<F_G_SUPPLIER>Briess</F_G_SUPPLIER>
-<F_G_TYPE>0</F_G_TYPE>
-<F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>0.0000000</F_G_AMOUNT>
-<F_G_COLOR>60.0000000</F_G_COLOR>
-<F_G_YIELD>73.0000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>0.0000000</F_G_PERCENT>
-<F_ORDER>0</F_ORDER>
-<F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>5.5000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>0.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>0.0000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>0</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Sweet, Pronounced Caramel
-Deep Golden to Red color
-3-7% in Pilsener for balance
-5-15% for color, sweetness &amp;color to light amber beers
-CHAR
-glassy endosperm create desirable non-fermentables giving ability to contrib&#39; body &amp; head retention &amp; stabili</F_G_NOTES>
-<F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
-<F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
-</Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Caramel Malt - 80L 6-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -3454,7 +3268,7 @@ Red to Deep Red
 7-15% in Dark beers.
 10-15% in Porter and Stout.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1343750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -4304,7 +4118,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Oats, Flaked (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4328,10 +4142,10 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_NOTES>Use at 5-25% to produce a lan Oatmeal Stout
 Use a small percentage in Belgian Wit Beers.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1656250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Pale Ale Malt 2-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4358,7 +4172,7 @@ Can be used as a base malt.
 More pronounced malty flavor than 2-Row Brewers Malt.
 Use with 2-Row Brewers Malt for rich malt flavor and additional color.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1125000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Sparkling Amber Liquid (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -4390,7 +4204,7 @@ Pilsen Malt has a slightly lower protein level than 2-Row Brewers Malt.</F_G_NOT
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>LME Pilsen Light (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Rice Hulls (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4415,10 +4229,10 @@ Pilsen Malt has a slightly lower protein level than 2-Row Brewers Malt.</F_G_NOT
 Rice Hulls are particularly effective when brewing high gravity beers with a big grist; beer made with high percentages of specialty malts; and wheat and rye beers.
 APPLICA</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1187500</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Rice, Flaked (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4441,7 +4255,7 @@ APPLICA</F_G_NOTES>
 <F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Use up to 40% as a cereal adjunct</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1750000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -4503,7 +4317,7 @@ Rye Malt is fully modified. It performs well in a single temperature infusion ma
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Rye, Flaked (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4527,10 +4341,10 @@ Rye Malt is fully modified. It performs well in a single temperature infusion ma
 <F_G_NOTES>Use up to 40% as a cereal adjunct in the total grist to create Rye Beer.
 Start at 5-10% and increase in increments of 5% because of the concentrated flavor of Rye Flakes.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1437500</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Special Roast (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4556,10 +4370,10 @@ COLOR: Deep Golden to Brown Hues
 Excellent for Nut Brown Ales, Porter and other dark beer styles.
 Special processing develops unique Toasty, Biscuity, Sour, Tangy flavors distinctive to Special Roast Malt .</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1843750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Victory Malt (biscuit) (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4582,7 +4396,7 @@ Special processing develops unique Toasty, Biscuity, Sour, Tangy flavors distinc
 <F_G_MAX_IN_BATCH>0.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES></F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1500000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -4670,7 +4484,7 @@ Use 0.5-1.0% to a standard brew to increase foam stability.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Wheat - White Malt (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -4696,7 +4510,7 @@ Imparts malty flavor not obtainable from raw wheat.
 Use with rice hulls to improve lautering and help prevent stuck mash.
 White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -4985,7 +4799,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter (Thomas Fawcett)</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Thomas Fawcett &amp; Sons</F_G_SUPPLIER>
@@ -5008,7 +4822,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Premium base malt from the UK.  Popular for many English styles of beer including ales, pale ales and bitters.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -5063,7 +4877,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Acidulated (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -5086,10 +4900,10 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Used in Germany to lower PH levels without resorting to chemicals.  Lowers mash pH levels, lightens color, improves flavor stability.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.2187500</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Caraamber (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -5113,7 +4927,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_NOTES>Medium colored caramel malt. Bocks, dark ales, red and amber lagers and ales.
 Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1843750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -5560,7 +5374,7 @@ Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Melanoidin (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -5583,7 +5397,7 @@ Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Red colored malt that improved head retention and stability.  Used in red lagers, ales, dark beers.  Intense red colour and malty aroma.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1843750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carared</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -5664,7 +5478,7 @@ Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Pilsner (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -5687,7 +5501,7 @@ Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Pilsner base malt for all pilsners, lagers.  Highly modified malt.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.0937500</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -5742,7 +5556,7 @@ Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_PRICE>0.1875000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-05-07</_MOD_>
 <F_G_NAME>Smoked Malt (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -5765,7 +5579,7 @@ Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Smoked flavor and aroma base malt.  Used in smoked ales, lagers and wheat beers, primarily German styles.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1843750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
