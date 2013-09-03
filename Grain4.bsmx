@@ -4565,7 +4565,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2012-09-05</_MOD_>
+<Grain><_MOD_>2013-08-27</_MOD_>
 <F_G_NAME>Caramalt (Thomas Fawcett)</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Thomas Fawcett &amp; Sons</F_G_SUPPLIER>
@@ -4588,7 +4588,7 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_MAX_IN_BATCH>10.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Made from green malt - imparts a light malt flavor and slight hue.  Suitable for light ales, lagers.</F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_PRICE>0.1243750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2012-09-05</_MOD_>
@@ -5735,7 +5735,7 @@ Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_MAX_IN_BATCH>20.0000000</F_G_MAX_IN_BATCH>
 <F_G_NOTES>Made from green malt - imparts a light malt flavor and slight hue.  Suitable for light ales, lagers.  Imparts a pale red color, contributes dextrins, and adds to foam stability.  </F_G_NOTES>
 <F_G_BOIL_TIME>60.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.1406250</F_G_PRICE>
+<F_G_PRICE>0.1243750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2013-08-27</_MOD_>
@@ -5869,7 +5869,7 @@ Improves flavour stability and enhances colour</F_G_NOTES>
 <F_G_PRICE>0.0968750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-08-26</_MOD_>
+<Grain><_MOD_>2013-08-27</_MOD_>
 <F_G_NAME>Oats, Golden Naked (Simpsons)</F_G_NAME>
 <F_G_ORIGIN>UK</F_G_ORIGIN>
 <F_G_SUPPLIER>Simpsons</F_G_SUPPLIER>
