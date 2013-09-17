@@ -19151,7 +19151,7 @@ Examples: Bass Pale Ale, Fullers ESB, Samual Smith&#39;s Pale Ale
 </Data>
 <_TExpanded>1</_TExpanded>
 </Table>
-<Recipe><_MOD_>2013-08-26</_MOD_>
+<Recipe><_MOD_>2013-09-16</_MOD_>
 <F_R_NAME>NB Elevenses Ale (sans oats)</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -19256,7 +19256,7 @@ Adams Brown Ale </F_S_EXAMPLES>
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2013-04-26</_MOD_>
+<Data><MashStep><_MOD_>1978-09-03</_MOD_>
 <F_MS_NAME>Saccharification</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>419.5927452</F_MS_INFUSION>
@@ -19275,7 +19275,7 @@ Adams Brown Ale </F_S_EXAMPLES>
 <F_MS_INFUSION_TEMP>163.9567118</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-04-01</_MOD_>
+<MashStep><_MOD_>2013-09-16</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -19362,7 +19362,7 @@ Adams Brown Ale </F_S_EXAMPLES>
 <Size>8</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2013-05-03</_MOD_>
+<Data><Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Rice Hulls</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -19390,7 +19390,7 @@ Good for wheat beers, Wits, and others that have high protein mashes.</F_G_NOTES
 <F_G_PRICE>0.1187500</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-04-26</_MOD_>
+<Grain><_MOD_>2013-09-16</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter (Thomas Fawcett)</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Thomas Fawcett &amp; Sons</F_G_SUPPLIER>
@@ -19416,7 +19416,7 @@ Good for wheat beers, Wits, and others that have high protein mashes.</F_G_NOTES
 <F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-04-26</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -19447,7 +19447,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-04-26</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Smoked Malt (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -19473,7 +19473,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.1843750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-04-26</_MOD_>
+<Grain><_MOD_>1978-11-25</_MOD_>
 <F_G_NAME>Brown Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -19499,7 +19499,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 60L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-04-26</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -19527,7 +19527,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.1468750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2013-04-26</_MOD_>
+<Hops><_MOD_>1978-11-21</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -19551,7 +19551,7 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9500000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2013-04-26</_MOD_>
+<Yeast><_MOD_>1969-12-31</_MOD_>
 <F_Y_NAME>Burton Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP023</F_Y_PRODUCT_ID>
@@ -19585,8 +19585,8 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_R_TYPE>2</F_R_TYPE>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
-<F_R_OG_MEASURED>1.0460000</F_R_OG_MEASURED>
-<F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
+<F_R_OG_MEASURED>1.0440000</F_R_OG_MEASURED>
+<F_R_FG_MEASURED>1.0121000</F_R_FG_MEASURED>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
@@ -22525,13 +22525,13 @@ Examples: Pulsner Urquell</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-08-30</_MOD_>
+<Recipe><_MOD_>2013-09-16</_MOD_>
 <F_R_NAME>Altbier, simple</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2013-08-28</F_R_DATE>
 <F_R_INV_DATE>1990-06-01</F_R_INV_DATE>
-<F_R_VOLUME_MEASURED>640.0000000</F_R_VOLUME_MEASURED>
+<F_R_VOLUME_MEASURED>665.6000000</F_R_VOLUME_MEASURED>
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
@@ -22631,7 +22631,7 @@ Schwelmer Alt, Grolsch Amber, Alaskan Amber, Schmaltz&rsquo; Alt </F_S_EXAMPLES>
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2013-08-29</_MOD_>
+<Data><MashStep><_MOD_>2013-09-16</_MOD_>
 <F_MS_NAME>Saccharification</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>382.0000000</F_MS_INFUSION>
@@ -22650,7 +22650,7 @@ Schwelmer Alt, Grolsch Amber, Alaskan Amber, Schmaltz&rsquo; Alt </F_S_EXAMPLES>
 <F_MS_INFUSION_TEMP>163.6566382</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2013-08-29</_MOD_>
+<MashStep><_MOD_>1969-12-31</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -22737,7 +22737,7 @@ Schwelmer Alt, Grolsch Amber, Alaskan Amber, Schmaltz&rsquo; Alt </F_S_EXAMPLES>
 <Size>6</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2013-08-28</_MOD_>
+<Data><Grain><_MOD_>1978-09-04</_MOD_>
 <F_G_NAME>Pilsen Malt 2-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -22766,7 +22766,7 @@ Pilsen Malt has a slightly lower protein level than 2-Row Brewers Malt.</F_G_NOT
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>LME Pilsen Light (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-08-29</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Munich 10L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -22795,7 +22795,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Sparklinf Amber (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-08-30</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Carafa II (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -22821,7 +22821,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-08-30</_MOD_>
+<Grain><_MOD_>2013-09-16</_MOD_>
 <F_G_NAME>Caramunich I (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -22847,7 +22847,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2013-08-28</_MOD_>
+<Hops><_MOD_>1969-12-31</_MOD_>
 <F_H_NAME>Magnum</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -22870,7 +22870,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9500000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2013-08-28</_MOD_>
+<Yeast><_MOD_>1969-12-31</_MOD_>
 <F_Y_NAME>German Ale/Kolsch</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP029</F_Y_PRODUCT_ID>
@@ -22904,8 +22904,8 @@ Substitutes: N/A</F_H_NOTES>
 <F_R_TYPE>2</F_R_TYPE>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
-<F_R_OG_MEASURED>1.0460000</F_R_OG_MEASURED>
-<F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
+<F_R_OG_MEASURED>1.0510000</F_R_OG_MEASURED>
+<F_R_FG_MEASURED>1.0120000</F_R_FG_MEASURED>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
