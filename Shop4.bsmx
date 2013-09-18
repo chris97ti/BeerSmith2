@@ -3,7 +3,7 @@
 <Type>7448</Type>
 <Owndata>1</Owndata>
 <TID>7448</TID>
-<Size>9</Size>
+<Size>15</Size>
 <_XName>Shop</_XName>
 <Allocinc>16</Allocinc>
 <Data><Shop><_MOD_>1970-03-29</_MOD_>
@@ -104,6 +104,72 @@
 <F_SH_SECOND>WLP005</F_SH_SECOND>
 <F_SH_TYPE>4</F_SH_TYPE>
 <F_SH_NOTES>For recipe: NB Caribou Slobber Double batch</F_SH_NOTES>
+</Shop>
+<Shop><_MOD_>2013-08-30</_MOD_>
+<F_SH_SHORT_NAME>Pilsen Malt 2-Row (Briess)</F_SH_SHORT_NAME>
+<F_SH_NAME>Pilsen Malt 2-Row (Briess) (1.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>8.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Altbier, simple</F_SH_NOTES>
+</Shop>
+<Shop><_MOD_>1970-03-26</_MOD_>
+<F_SH_SHORT_NAME>Munich 10L (Briess)</F_SH_SHORT_NAME>
+<F_SH_NAME>Munich 10L (Briess) (10.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>US</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Altbier, simple</F_SH_NOTES>
+</Shop>
+<Shop><_MOD_>2013-08-30</_MOD_>
+<F_SH_SHORT_NAME>Carafa II (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Carafa II (Weyermann) (415.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.3000000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Altbier, simple</F_SH_NOTES>
+</Shop>
+<Shop><_MOD_>2013-08-30</_MOD_>
+<F_SH_SHORT_NAME>Caramunich I (Weyermann)</F_SH_SHORT_NAME>
+<F_SH_NAME>Caramunich I (Weyermann) (51.0 SRM)</F_SH_NAME>
+<F_SH_AMOUNT>0.2500000</F_SH_AMOUNT>
+<F_SH_UNITS>lb</F_SH_UNITS>
+<F_SH_PRICE_UNITS>lb</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.2500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>1</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Altbier, simple</F_SH_NOTES>
+</Shop>
+<Shop><_MOD_>2013-08-30</_MOD_>
+<F_SH_SHORT_NAME>Magnum</F_SH_SHORT_NAME>
+<F_SH_NAME>Magnum [13.10 %] - Boil 60.0 min</F_SH_NAME>
+<F_SH_AMOUNT>0.6637613</F_SH_AMOUNT>
+<F_SH_UNITS>oz</F_SH_UNITS>
+<F_SH_PRICE_UNITS>oz</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.9500000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>Germany</F_SH_SECOND>
+<F_SH_TYPE>2</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Altbier, simple</F_SH_NOTES>
+</Shop>
+<Shop><_MOD_>2013-08-30</_MOD_>
+<F_SH_SHORT_NAME>German Ale/Kolsch</F_SH_SHORT_NAME>
+<F_SH_NAME>German Ale/Kolsch (White Labs #WLP029) [35.49 ml]</F_SH_NAME>
+<F_SH_AMOUNT>1.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>pkg</F_SH_UNITS>
+<F_SH_PRICE_UNITS>pkg</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>6.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND>WLP029</F_SH_SECOND>
+<F_SH_TYPE>4</F_SH_TYPE>
+<F_SH_NOTES>For recipe: Altbier, simple</F_SH_NOTES>
 </Shop>
 </Data>
 <_TExpanded>1</_TExpanded>
