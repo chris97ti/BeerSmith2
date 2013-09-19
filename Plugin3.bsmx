@@ -3,7 +3,7 @@
 <Type>8344</Type>
 <Owndata>1</Owndata>
 <TID>8344</TID>
-<Size>9</Size>
+<Size>14</Size>
 <_XName>Plugin</_XName>
 <Allocinc>16</Allocinc>
 <Data><Plugin><_MOD_>2012-09-06</_MOD_>
@@ -50,6 +50,31 @@
 <F_PLUG_NAME>Northern Brewer - German Ales and Hybrids (10 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-German-Ales.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Stouts (17 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-Stout.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Browns and Milds(18 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-Browns-Milds.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-09-18</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Belgian (30 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-Belgian.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>1969-12-31</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Ambers and Reds (12 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-Amber-Red.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-09-18</_MOD_>
+<F_PLUG_NAME>Northern Brewer - Porters (13 recipes)</F_PLUG_NAME>
+<F_PLUG_TYPE>7372</F_PLUG_TYPE>
+<F_PLUG_FILE>NB-Porter.bsmx</F_PLUG_FILE>
 </Plugin>
 </Data>
 <_TExpanded>1</_TExpanded>

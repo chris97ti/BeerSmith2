@@ -51,12 +51,12 @@
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-German-Ales.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-09-18</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Stouts (17 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Stout.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-09-18</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Browns and Milds(18 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Browns-Milds.bsmx</F_PLUG_FILE>
@@ -66,7 +66,7 @@
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Belgian.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-09-18</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Ambers and Reds (12 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Amber-Red.bsmx</F_PLUG_FILE>
