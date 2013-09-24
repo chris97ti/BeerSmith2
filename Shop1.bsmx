@@ -1,9 +1,9 @@
-<Shop><_MOD_>2011-02-16</_MOD_>
+<Shop><_MOD_>2013-09-19</_MOD_>
 <Name>Shop</Name>
 <Type>7448</Type>
 <Owndata>1</Owndata>
 <TID>7448</TID>
-<Size>15</Size>
+<Size>16</Size>
 <_XName>Shop</_XName>
 <Allocinc>16</Allocinc>
 <Data><Shop><_MOD_>1970-03-29</_MOD_>
@@ -170,6 +170,17 @@
 <F_SH_SECOND>WLP029</F_SH_SECOND>
 <F_SH_TYPE>4</F_SH_TYPE>
 <F_SH_NOTES>For recipe: Altbier, simple</F_SH_NOTES>
+</Shop>
+<Shop><_MOD_>2013-09-19</_MOD_>
+<F_SH_SHORT_NAME>New Item</F_SH_SHORT_NAME>
+<F_SH_NAME>New Item</F_SH_NAME>
+<F_SH_AMOUNT>0.0000000</F_SH_AMOUNT>
+<F_SH_UNITS>items</F_SH_UNITS>
+<F_SH_PRICE_UNITS>items</F_SH_PRICE_UNITS>
+<F_SH_UNIT_PRICE>1.0000000</F_SH_UNIT_PRICE>
+<F_SH_SECOND></F_SH_SECOND>
+<F_SH_TYPE>0</F_SH_TYPE>
+<F_SH_NOTES></F_SH_NOTES>
 </Shop>
 </Data>
 <_TExpanded>1</_TExpanded>
