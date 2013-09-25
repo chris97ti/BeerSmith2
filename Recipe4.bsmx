@@ -60992,7 +60992,7 @@ Can contribute a cider-like flavor to the beer if not cold-fermented or used in 
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>10.0000000</F_H_ALPHA>
 <F_H_BETA>5.0000000</F_H_BETA>
-<F_H_PERCENT>47.3684211</F_H_PERCENT>
+<F_H_PERCENT>47.3684261</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.4984678</F_H_AMOUNT>
 <F_H_HSI>50.0000000</F_H_HSI>
@@ -61001,7 +61001,7 @@ Can contribute a cider-like flavor to the beer if not cold-fermented or used in 
 <F_H_NOTES>Used for: English ales and lagers
 Aroma: Robust aroma and flavor
 Substitutes: East Kent Goldings</F_H_NOTES>
-<F_H_IBU_CONTRIB>16.9230007</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>16.9230013</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -61014,7 +61014,7 @@ Substitutes: East Kent Goldings</F_H_NOTES>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>5.5000000</F_H_ALPHA>
 <F_H_BETA>3.5000000</F_H_BETA>
-<F_H_PERCENT>26.3157895</F_H_PERCENT>
+<F_H_PERCENT>26.3157870</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.2769265</F_H_AMOUNT>
 <F_H_HSI>40.0000000</F_H_HSI>
@@ -61024,7 +61024,7 @@ Substitutes: East Kent Goldings</F_H_NOTES>
 Aroma: Mild, grassy, floral, slightly spicy
 Substitutes: Fuggles, East Kent Goldings
 Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
-<F_H_IBU_CONTRIB>1.8748282</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>1.8748279</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -61037,7 +61037,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>5.0000000</F_H_ALPHA>
 <F_H_BETA>3.5000000</F_H_BETA>
-<F_H_PERCENT>26.3157895</F_H_PERCENT>
+<F_H_PERCENT>26.3157870</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.2769265</F_H_AMOUNT>
 <F_H_HSI>50.0000000</F_H_HSI>
@@ -61047,7 +61047,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 Aroma: Fine, mild, slightly spicy flavor
 Substitutes: Hallertau, Mt Hood, Crystal
 Examples: Pete&#39;s Wicked Lager</F_H_NOTES>
-<F_H_IBU_CONTRIB>0.9371312</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>0.9371310</F_H_IBU_CONTRIB>
 <F_ORDER>8</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
