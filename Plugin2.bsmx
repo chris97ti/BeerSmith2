@@ -17,11 +17,6 @@
 <F_PLUG_FILE>Thomas_Fawcett.bsmx</F_PLUG_FILE>
 </Plugin>
 <Plugin><_MOD_>1970-08-16</_MOD_>
-<F_PLUG_NAME>Weyermann Malts (30 grains)</F_PLUG_NAME>
-<F_PLUG_TYPE>7406</F_PLUG_TYPE>
-<F_PLUG_FILE>Weyermann.bsmx</F_PLUG_FILE>
-</Plugin>
-<Plugin><_MOD_>1970-08-16</_MOD_>
 <F_PLUG_NAME>Simpsons Malts (11 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>simpsons-grains.bsmx</F_PLUG_FILE>
@@ -51,12 +46,12 @@
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-German-Ales.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2013-09-18</_MOD_>
+<Plugin><_MOD_>1970-08-16</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Stouts (17 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Stout.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2013-10-02</_MOD_>
+<Plugin><_MOD_>2013-09-18</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Browns and Milds(18 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Browns-Milds.bsmx</F_PLUG_FILE>
@@ -86,10 +81,15 @@
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Old-Ale.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2013-09-18</_MOD_>
+<Plugin><_MOD_>2013-10-02</_MOD_>
 <F_PLUG_NAME>Yeast Update 2013 - New Yeasts (29 yeasts)</F_PLUG_NAME>
 <F_PLUG_TYPE>7426</F_PLUG_TYPE>
 <F_PLUG_FILE>Yeast-update.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-09-18</_MOD_>
+<F_PLUG_NAME>Weyermann Malts (30 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Weyermann.bsmx</F_PLUG_FILE>
 </Plugin>
 </Data>
 <_TExpanded>1</_TExpanded>
