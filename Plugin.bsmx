@@ -21,7 +21,7 @@
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>simpsons-grains.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-10-20</_MOD_>
 <F_PLUG_NAME>BeerSmith - Altbiers (7 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>BS-Altbier.bsmx</F_PLUG_FILE>
@@ -56,17 +56,17 @@
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Browns-Milds.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-10-20</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Belgian (30 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Belgian.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-10-20</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Ambers and Reds (12 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Amber-Red.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-10-20</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Porters (13 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Porter.bsmx</F_PLUG_FILE>
