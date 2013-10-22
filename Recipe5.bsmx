@@ -1426,7 +1426,7 @@ Small amounts added to the grist will improve the malty flavor and give a richer
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-16</_MOD_>
 <F_G_NAME>Caramunich I (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -67702,7 +67702,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_R_DESIRED_OG>1.0802755</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-08-27</_MOD_>
+<Recipe><_MOD_>2013-10-10</_MOD_>
 <F_R_NAME>NB Caribou Slobber Double batch</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -67726,12 +67726,12 @@ Substitutes: Centennial</F_H_NOTES>
 <F_E_TUN_DEADSPACE>38.4000000</F_E_TUN_DEADSPACE>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
-<F_E_BOIL_VOL>1523.2000000</F_E_BOIL_VOL>
+<F_E_BOIL_VOL>1524.2240000</F_E_BOIL_VOL>
 <F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
 <F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
 <F_EQUIP_39>1</F_EQUIP_39>
-<F_E_BOIL_OFF>192.0000000</F_E_BOIL_OFF>
-<F_E_TRUB_LOSS>0.0000000</F_E_TRUB_LOSS>
+<F_E_BOIL_OFF>166.4000000</F_E_BOIL_OFF>
+<F_E_TRUB_LOSS>25.6000000</F_E_TRUB_LOSS>
 <F_E_COOL_PCT>4.0000000</F_E_COOL_PCT>
 <F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
 <F_E_BATCH_VOL>1280.0000000</F_E_BATCH_VOL>
@@ -68077,7 +68077,7 @@ Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger
 <F_H_NOTES>Used for: Bittering and finishing British ales, bitters, porters and stouts.
 Aroma: Spicy, floral, rounded mild aroma.
 Substitutes: East Kent Goldings, Fuggles</F_H_NOTES>
-<F_H_IBU_CONTRIB>19.2361084</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>18.7016523</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -68100,7 +68100,7 @@ Substitutes: East Kent Goldings, Fuggles</F_H_NOTES>
 Aroma: Fine, mild, slightly spicy flavor
 Substitutes: Hallertau, Mt Hood, Crystal
 Examples: Pete&#39;s Wicked Lager</F_H_NOTES>
-<F_H_IBU_CONTRIB>12.7137464</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>12.3605076</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -68123,7 +68123,7 @@ Examples: Pete&#39;s Wicked Lager</F_H_NOTES>
 Aroma: Mild, grassy, floral, slightly spicy
 Substitutes: Fuggles, East Kent Goldings
 Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
-<F_H_IBU_CONTRIB>10.4995135</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>10.2077950</F_H_IBU_CONTRIB>
 <F_ORDER>8</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -68137,7 +68137,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_Y_FORM>0</F_Y_FORM>
 <F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>1.2000000</F_Y_STARTER_SIZE>
-<F_Y_AMOUNT>2.0000000</F_Y_AMOUNT>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
 <F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>9</F_ORDER>
@@ -68181,7 +68181,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_R_INCLUDE_STARTER>0</F_R_INCLUDE_STARTER>
 <F_R_VERSION>1.0000000</F_R_VERSION>
 <F_R_STARTER_SIZE>0.0000000</F_R_STARTER_SIZE>
-<F_R_STIR_PLATE>0</F_R_STIR_PLATE>
+<F_R_STIR_PLATE>1</F_R_STIR_PLATE>
 <F_R_OLD_VOL>1280.0000000</F_R_OLD_VOL>
 <F_R_OLD_BOIL_VOL>1640.9600000</F_R_OLD_BOIL_VOL>
 <F_R_OLD_EFFICIENCY>75.0000000</F_R_OLD_EFFICIENCY>
