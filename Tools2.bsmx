@@ -34,8 +34,8 @@
 <Tool.Temperature><_MOD_>2011-05-19</_MOD_>
 <F_T_FAHRENHEIT>152.0060000</F_T_FAHRENHEIT>
 </Tool.Temperature>
-<Tool.SpecificGravity><_MOD_>2010-12-24</_MOD_>
-<F_SG_SG>1.0400000</F_SG_SG>
+<Tool.SpecificGravity><_MOD_>2013-10-22</_MOD_>
+<F_SG_SG>1.0318725</F_SG_SG>
 </Tool.SpecificGravity>
 <Tool.Pressure><_MOD_>2010-12-24</_MOD_>
 <F_P_PSI>12.0500000</F_P_PSI>
@@ -43,8 +43,8 @@
 <Tool.Weight><_MOD_>2013-10-17</_MOD_>
 <F_W_OZ>12.0000000</F_W_OZ>
 </Tool.Weight>
-<Tool.Volume><_MOD_>2013-10-21</_MOD_>
-<F_V_FLOZ>640.0000000</F_V_FLOZ>
+<Tool.Volume><_MOD_>2013-10-22</_MOD_>
+<F_V_FLOZ>777.7180400</F_V_FLOZ>
 </Tool.Volume>
 <Tool.Decoction><_MOD_>2011-05-19</_MOD_>
 <F_D_STEP_TEMP>152.0000000</F_D_STEP_TEMP>

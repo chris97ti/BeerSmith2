@@ -70056,8 +70056,8 @@ Storage: Unknown
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-10-22</_MOD_>
-<F_R_NAME>West 12 clone &quot;The Pious Traditional&quot;</F_R_NAME>
+<Recipe><_MOD_>2013-10-24</_MOD_>
+<F_R_NAME>Westy 12 clone &quot;The Pious Traditional&quot;</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2013-10-21</F_R_DATE>
@@ -70553,7 +70553,7 @@ Same yeast is used in both, and same fermentation schedule is used in both. Chil
 <Name>Testing</Name>
 <Type>7372</Type>
 <Owndata>1</Owndata>
-<TID>7372</TID>
+<TID>1</TID>
 <Size>2</Size>
 <_XName>Folder</_XName>
 <Allocinc>16</Allocinc>
@@ -70698,7 +70698,7 @@ Full Sail Pale Ale, Three Floyds X-Tra Pale Ale, Anderson Valley Poleeko Gold Pa
 <F_MS_INFUSION_TEMP>166.0575572</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1969-12-31</_MOD_>
+<MashStep><_MOD_>2013-10-23</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -70785,7 +70785,7 @@ Full Sail Pale Ale, Three Floyds X-Tra Pale Ale, Anderson Valley Poleeko Gold Pa
 <Size>5</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Vienna Malt (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -70837,7 +70837,7 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9500000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-10-23</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -71246,7 +71246,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-10-23</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -71271,7 +71271,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-10-23</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -71296,7 +71296,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-10-23</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -71425,7 +71425,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2013-10-23</_MOD_>
 <F_S_NAME>Strong Scotch Ale</F_S_NAME>
 <F_S_CATEGORY>Strong Ale (&gt;6% ABV)</F_S_CATEGORY>
 <F_S_GUIDE>AABC 2010</F_S_GUIDE>
@@ -71617,7 +71617,7 @@ Highland Scotch Ale, Founders Dirty Bastard</F_S_EXAMPLES>
 <Size>8</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Pale Malt (2 Row) US</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -71643,7 +71643,7 @@ Highland Scotch Ale, Founders Dirty Bastard</F_S_EXAMPLES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Crystal, Dark (Simpsons)</F_G_NAME>
 <F_G_ORIGIN>UK</F_G_ORIGIN>
 <F_G_SUPPLIER>Simpsons</F_G_SUPPLIER>
@@ -71669,7 +71669,7 @@ Highland Scotch Ale, Founders Dirty Bastard</F_S_EXAMPLES>
 <F_G_PRICE>0.1406250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Munich Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -71697,7 +71697,7 @@ Use for: Bock, Porter, Marzen, Oktoberfest beers</F_G_NOTES>
 <F_G_PRICE>0.1156250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Amber Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -71725,7 +71725,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.1468750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Special B Malt</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -71751,7 +71751,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Smoked Malt (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -71903,7 +71903,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2013-10-23</_MOD_>
 <F_S_NAME>Belgian Dark Strong Ale</F_S_NAME>
 <F_S_CATEGORY>Belgian Strong Ale (&gt;6% ABV)</F_S_CATEGORY>
 <F_S_GUIDE>AABC 2010</F_S_GUIDE>
@@ -71998,7 +71998,7 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <Size>3</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2013-10-23</_MOD_>
 <F_MS_NAME>Protein Rest</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>725.7600000</F_MS_INFUSION>
@@ -72063,7 +72063,7 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>1969-12-31</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -72123,7 +72123,7 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <Size>7</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Pilsner (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -72149,7 +72149,7 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Carafa I</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -72175,7 +72175,7 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Candi Syrup, D-180</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Candi Syrup</F_G_SUPPLIER>
@@ -72201,7 +72201,7 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <F_G_PRICE>0.3750000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Candi Syrup, D-90</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Candi Syrup</F_G_SUPPLIER>
@@ -72252,7 +72252,7 @@ Storage: Poor
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.8900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-10-23</_MOD_>
 <F_H_NAME>Styrian Goldings</F_H_NAME>
 <F_H_ORIGIN>Slovenia</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -72275,7 +72275,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.1500000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-10-23</_MOD_>
 <F_H_NAME>Tettnang</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -72340,8 +72340,8 @@ Syrup and re-pitch 500ml Westvleteren strain stir-plate. Bottle re-ferment for 1
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-10-22</_MOD_>
-<F_R_NAME>West 12 clone from CSI</F_R_NAME>
+<Recipe><_MOD_>2013-10-24</_MOD_>
+<F_R_NAME>Westy 12 clone from CSI</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2013-10-21</F_R_DATE>
@@ -72364,7 +72364,7 @@ Syrup and re-pitch 500ml Westvleteren strain stir-plate. Bottle re-ferment for 1
 <F_E_TUN_DEADSPACE>38.4000000</F_E_TUN_DEADSPACE>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
-<F_E_BOIL_VOL>1052.6720000</F_E_BOIL_VOL>
+<F_E_BOIL_VOL>986.1120000</F_E_BOIL_VOL>
 <F_E_BOIL_TIME>90.0000000</F_E_BOIL_TIME>
 <F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
 <F_EQUIP_39>1</F_EQUIP_39>
@@ -72372,7 +72372,7 @@ Syrup and re-pitch 500ml Westvleteren strain stir-plate. Bottle re-ferment for 1
 <F_E_TRUB_LOSS>12.8000000</F_E_TRUB_LOSS>
 <F_E_COOL_PCT>4.0000000</F_E_COOL_PCT>
 <F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
-<F_E_BATCH_VOL>704.0000000</F_E_BATCH_VOL>
+<F_E_BATCH_VOL>640.0000000</F_E_BATCH_VOL>
 <F_E_FERMENTER_LOSS>0.0000000</F_E_FERMENTER_LOSS>
 <F_E_TOP_UP>0.0000000</F_E_TOP_UP>
 <F_E_EFFICIENCY>70.0000000</F_E_EFFICIENCY>
@@ -72471,15 +72471,15 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <Type>7432</Type>
 <Owndata>1</Owndata>
 <TID>7149</TID>
-<Size>4</Size>
+<Size>3</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
 <Data><MashStep><_MOD_>1970-06-27</_MOD_>
 <F_MS_NAME>Protein Rest</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>896.0000000</F_MS_INFUSION>
-<F_MS_STEP_TEMP>132.0000000</F_MS_STEP_TEMP>
-<F_MS_STEP_TIME>10.0000000</F_MS_STEP_TIME>
+<F_MS_STEP_TEMP>128.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>20.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
 <F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
@@ -72490,15 +72490,15 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>256.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>138.2446276</F_MS_INFUSION_TEMP>
+<F_MS_INFUSION_TEMP>133.8283191</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 <MashStep><_MOD_>1970-06-27</_MOD_>
 <F_MS_NAME>Beta Sacch&#39; Rest</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
-<F_MS_STEP_TEMP>151.0000000</F_MS_STEP_TEMP>
-<F_MS_STEP_TIME>30.0000000</F_MS_STEP_TIME>
+<F_MS_STEP_TEMP>148.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>90.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>20.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
 <F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
@@ -72509,26 +72509,7 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>896.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>256.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>151.0000000</F_MS_INFUSION_TEMP>
-<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
-</MashStep>
-<MashStep><_MOD_>1970-06-27</_MOD_>
-<F_MS_NAME>Alpha Sacch&#39; Rest</F_MS_NAME>
-<F_MS_TYPE>2</F_MS_TYPE>
-<F_MS_INFUSION>0.0000000</F_MS_INFUSION>
-<F_MS_STEP_TEMP>159.0000000</F_MS_STEP_TEMP>
-<F_MS_STEP_TIME>30.0000000</F_MS_STEP_TIME>
-<F_MS_RISE_TIME>10.0000000</F_MS_RISE_TIME>
-<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
-<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
-<F_MS_TUN_VOL>1280.0000000</F_MS_TUN_VOL>
-<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
-<F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
-<F_MS_START_TEMP>149.0000000</F_MS_START_TEMP>
-<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
-<F_MS_START_VOL>896.0000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>256.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>159.0000000</F_MS_INFUSION_TEMP>
+<F_MS_INFUSION_TEMP>148.0000000</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 <MashStep><_MOD_>1970-06-27</_MOD_>
@@ -72619,57 +72600,56 @@ Kasteelbier Bi&egrave;re du Chateau Donker</F_S_EXAMPLES>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
 <Data><Grain><_MOD_>2013-10-21</_MOD_>
-<F_G_NAME>Pale Malt (2 Row) Bel</F_G_NAME>
+<F_G_NAME>Pale Ale (Dingemans)</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
-<F_G_SUPPLIER></F_G_SUPPLIER>
-<F_G_TYPE>0</F_G_TYPE>
-<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>192.0000000</F_G_AMOUNT>
-<F_G_COLOR>3.0000000</F_G_COLOR>
-<F_G_YIELD>80.0000000</F_G_YIELD>
-<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>63.1578947</F_G_PERCENT>
-<F_ORDER>1</F_ORDER>
-<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>60.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>10.5000000</F_G_PROTEIN>
-<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
-<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
-<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
-<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Base malt for all beer styles
-Higher potential yield than US, English equivalent pale ale malts</F_G_NOTES>
-<F_G_BOIL_TIME>90.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.1218750</F_G_PRICE>
-<F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
-</Grain>
-<Grain><_MOD_>2013-10-22</_MOD_>
-<F_G_NAME>Pilsner (2 Row) Bel</F_G_NAME>
-<F_G_ORIGIN>Belgium</F_G_ORIGIN>
-<F_G_SUPPLIER></F_G_SUPPLIER>
+<F_G_SUPPLIER>Dingemans</F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
 <F_G_AMOUNT>64.0000000</F_G_AMOUNT>
-<F_G_COLOR>2.0000000</F_G_COLOR>
-<F_G_YIELD>79.0000000</F_G_YIELD>
+<F_G_COLOR>3.3000000</F_G_COLOR>
+<F_G_YIELD>80.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
 <F_G_PERCENT>21.0526316</F_G_PERCENT>
 <F_ORDER>2</F_ORDER>
-<F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
-<F_G_MOISTURE>4.0000000</F_G_MOISTURE>
-<F_G_DIASTATIC_POWER>105.0000000</F_G_DIASTATIC_POWER>
-<F_G_PROTEIN>10.5000000</F_G_PROTEIN>
+<F_G_COARSE_FINE_DIFF>2.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.8000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>70.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.5000000</F_G_PROTEIN>
 <F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
 <F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
 <F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
 <F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
-<F_G_NOTES>Belgian base malt for Continental lagers</F_G_NOTES>
+<F_G_NOTES></F_G_NOTES>
 <F_G_BOIL_TIME>90.0000000</F_G_BOIL_TIME>
-<F_G_PRICE>0.1125000</F_G_PRICE>
-<F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>Briess Base Malts, Caramel 60L Malt, Munich Malt</F_G_CONVERT_GRAIN>
+</Grain>
+<Grain><_MOD_>2013-10-22</_MOD_>
+<F_G_NAME>Pilsen (Dingemans)</F_G_NAME>
+<F_G_ORIGIN>Belgium</F_G_ORIGIN>
+<F_G_SUPPLIER>Dingemans</F_G_SUPPLIER>
+<F_G_TYPE>0</F_G_TYPE>
+<F_G_IN_RECIPE>1</F_G_IN_RECIPE>
+<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_AMOUNT>192.0000000</F_G_AMOUNT>
+<F_G_COLOR>1.6000000</F_G_COLOR>
+<F_G_YIELD>81.0000000</F_G_YIELD>
+<F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
+<F_G_PERCENT>63.1578947</F_G_PERCENT>
+<F_ORDER>1</F_ORDER>
+<F_G_COARSE_FINE_DIFF>2.0000000</F_G_COARSE_FINE_DIFF>
+<F_G_MOISTURE>4.5000000</F_G_MOISTURE>
+<F_G_DIASTATIC_POWER>90.0000000</F_G_DIASTATIC_POWER>
+<F_G_PROTEIN>11.5000000</F_G_PROTEIN>
+<F_G_IBU_GAL_PER_LB>0.0000000</F_G_IBU_GAL_PER_LB>
+<F_G_ADD_AFTER_BOIL>0</F_G_ADD_AFTER_BOIL>
+<F_G_RECOMMEND_MASH>1</F_G_RECOMMEND_MASH>
+<F_G_MAX_IN_BATCH>100.0000000</F_G_MAX_IN_BATCH>
+<F_G_NOTES></F_G_NOTES>
+<F_G_BOIL_TIME>90.0000000</F_G_BOIL_TIME>
+<F_G_PRICE>0.0781250</F_G_PRICE>
+<F_G_CONVERT_GRAIN>LME Pilsen Light (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
 <Grain><_MOD_>2013-10-22</_MOD_>
 <F_G_NAME>Candi Syrup, D-180</F_G_NAME>
@@ -72715,7 +72695,7 @@ Used for: Bittering and finishing both ales and lagers of all kinds
 Aroma: Fine, dry, clean bittering hop.  Unique flavor.
 Substitutes: Hallertauer Mittelfrueh, Hallertauer
 Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
-<F_H_IBU_CONTRIB>23.4717799</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>24.6321416</F_H_IBU_CONTRIB>
 <F_ORDER>4</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -72738,7 +72718,7 @@ Examples: Anchor Steam, Old Peculiar, </F_H_NOTES>
 Aroma: Noble, pleasant, clean flavor
 Substitutes: Mt. Hood, Liberty, Hallertauer, Mittelfrueh
 Examples: Wheathook Wheaten Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>7.7589724</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>8.1425485</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -72761,7 +72741,7 @@ Examples: Wheathook Wheaten Ale</F_H_NOTES>
 Used for: Bittering, finishing for a wide variety of European Beers. Popular in Europe and the United Kingdom
 Aroma: Mild, soft, grassy, floral aroma. Similar to Fuggles.
 Substitutes: Fuggles, Williamette</F_H_NOTES>
-<F_H_IBU_CONTRIB>3.7692477</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>3.9555860</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -72813,7 +72793,11 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 for 90-120 seconds (we&rsquo;re after 9-10 ppm O2). Ramp primary to 78F for 6-7 days. At 1.013 rack off yeast to secondary 
 and crash to 55-60F. Hold for 3-4 days until FG is reached. Dump yeast again and lower to 45F. Hold for 8 weeks. Bottle 
 using heavy Belgian bottles or Champagne bottles. Prime with 32g/gal (approx 2.5 Vol CO2) Simplicity Candi Syrup and 
-repitch &frac12; cup fresh krausen or a 500ml stir-plate WLP 530. Let carb for 14 days at 76F. Cellar for 12 months minimum.</F_R_NOTES>
+repitch &frac12; cup fresh krausen or a 500ml stir-plate WLP 530. Let carb for 14 days at 76F. Cellar for 12 months minimum.
+
+
+saq: You need to make sure you mash low, 150 tops if single infusion. If you do step mashes you want to start lower.
+Make sure you use the right amount of sugar (15% by gravity points) and you let the yeast get up t otemperature.</F_R_NOTES>
 <F_R_RATING>30.0000000</F_R_RATING>
 <F_R_DESCRIPTION></F_R_DESCRIPTION>
 <F_R_CARB_VOLS>2.3000000</F_R_CARB_VOLS>
@@ -72874,7 +72858,7 @@ repitch &frac12; cup fresh krausen or a 500ml stir-plate WLP 530. Let carb for 1
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2013-10-23</_MOD_>
 <F_S_NAME>Dubbel</F_S_NAME>
 <F_S_CATEGORY>Belgian Strong Ale (&gt;6% ABV)</F_S_CATEGORY>
 <F_S_GUIDE>AABC 2010</F_S_GUIDE>
@@ -73069,7 +73053,7 @@ Double Ale</F_S_EXAMPLES>
 <Size>7</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Pilsen (Dingemans)</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER>Dingemans</F_G_SUPPLIER>
@@ -73095,7 +73079,7 @@ Double Ale</F_S_EXAMPLES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>LME Pilsen Light (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Cara 8 (Dingemans)</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER>Dingemans</F_G_SUPPLIER>
@@ -73121,7 +73105,7 @@ Double Ale</F_S_EXAMPLES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Candi Syrup, D-90</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Candi Syrup</F_G_SUPPLIER>
@@ -73172,7 +73156,7 @@ Storage: Poor
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.8900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-10-23</_MOD_>
 <F_H_NAME>Tettnang</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -73195,7 +73179,7 @@ Examples: Sam Adams Octoberfest, Anderson Valley ESB</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.5000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-10-23</_MOD_>
 <F_H_NAME>Styrian Goldings</F_H_NAME>
 <F_H_ORIGIN>Slovenia</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -73412,7 +73396,7 @@ Shaft Stout, Sheaf Stout, Bell&rsquo;s Double Cream Stout </F_S_EXAMPLES>
 <F_MS_INFUSION_TEMP>122.0000000</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1969-12-31</_MOD_>
+<MashStep><_MOD_>2013-10-23</_MOD_>
 <F_MS_NAME>Alpha Sacch&#39; Rest</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -73544,7 +73528,7 @@ Shaft Stout, Sheaf Stout, Bell&rsquo;s Double Cream Stout </F_S_EXAMPLES>
 <F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Caramunich I (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -73570,7 +73554,7 @@ Shaft Stout, Sheaf Stout, Bell&rsquo;s Double Cream Stout </F_S_EXAMPLES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -73599,7 +73583,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Chocolate Malt (Simpsons)</F_G_NAME>
 <F_G_ORIGIN>UK</F_G_ORIGIN>
 <F_G_SUPPLIER>Simpsons</F_G_SUPPLIER>
@@ -73625,7 +73609,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.1562500</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Chocolate Malt (Simpsons) (steep 20 mins)</F_G_NAME>
 <F_G_ORIGIN>UK</F_G_ORIGIN>
 <F_G_SUPPLIER>Simpsons</F_G_SUPPLIER>
@@ -73651,7 +73635,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.1562500</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-10-23</_MOD_>
 <F_G_NAME>Candi Syrup, D-180</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Candi Syrup</F_G_SUPPLIER>
