@@ -6857,7 +6857,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_Y_NOTES>Very clean flavor, balance and stability.  Accentuates hop flavor
 Versitile - can be used to make any style ale.</F_Y_NOTES>
 </Yeast>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2013-10-28</_MOD_>
 <F_M_NAME>Vanilla Extract</F_M_NAME>
 <F_M_TYPE>3</F_M_TYPE>
 <F_M_USE_FOR>Spruce Beer</F_M_USE_FOR>
@@ -74759,7 +74759,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9500000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1969-12-31</_MOD_>
+<Yeast><_MOD_>2013-10-28</_MOD_>
 <F_Y_NAME>California Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP001</F_Y_PRODUCT_ID>
@@ -74788,7 +74788,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_Y_NOTES>Very clean flavor, balance and stability.  Accentuates hop flavor
 Versitile - can be used to make any style ale.</F_Y_NOTES>
 </Yeast>
-<Misc><_MOD_>1969-12-31</_MOD_>
+<Misc><_MOD_>2013-10-28</_MOD_>
 <F_M_NAME>Vanilla Extract</F_M_NAME>
 <F_M_TYPE>3</F_M_TYPE>
 <F_M_USE_FOR>Spruce Beer</F_M_USE_FOR>
