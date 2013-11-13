@@ -7328,13 +7328,13 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-10-22</_MOD_>
+<Recipe><_MOD_>2013-11-13</_MOD_>
 <F_R_NAME>NB Caribou Slobber v2 (dog drool)</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2012-09-05</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
-<F_R_VOLUME_MEASURED>0.0000000</F_R_VOLUME_MEASURED>
+<F_R_VOLUME_MEASURED>640.0000000</F_R_VOLUME_MEASURED>
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
@@ -7612,7 +7612,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-10-21</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Caramel Malt - 80L 6-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -7643,7 +7643,7 @@ Red to Deep Red
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-10-21</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Pale Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Thomas Fawcett</F_G_SUPPLIER>
@@ -7669,7 +7669,7 @@ Red to Deep Red
 <F_G_PRICE>0.1562500</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-10-21</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Black Malt - 2-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -7801,8 +7801,8 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_R_TYPE>2</F_R_TYPE>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
-<F_R_OG_MEASURED>0.0000000</F_R_OG_MEASURED>
-<F_R_FG_MEASURED>0.0000000</F_R_FG_MEASURED>
+<F_R_OG_MEASURED>1.0560000</F_R_OG_MEASURED>
+<F_R_FG_MEASURED>1.0120000</F_R_FG_MEASURED>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_BOIL_VOL_MEASURED>0.0000000</F_R_BOIL_VOL_MEASURED>
@@ -72812,7 +72812,7 @@ Make sure you use the right amount of sugar (15% by gravity points) and you let 
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-10-22</_MOD_>
+<Recipe><_MOD_>2013-11-08</_MOD_>
 <F_R_NAME>Westmalle Dubbel clone</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -72822,8 +72822,8 @@ Make sure you use the right amount of sugar (15% by gravity points) and you let 
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
-<F_R_MTIMER_DOWN>4500</F_R_MTIMER_DOWN>
-<F_R_BTIMER_DOWN>3600</F_R_BTIMER_DOWN>
+<F_R_MTIMER_DOWN>2220</F_R_MTIMER_DOWN>
+<F_R_BTIMER_DOWN>1800</F_R_BTIMER_DOWN>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
@@ -72916,7 +72916,7 @@ Double Ale</F_S_EXAMPLES>
 <F_S_WEB_LINK></F_S_WEB_LINK>
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2013-10-22</_MOD_>
-<F_MH_NAME>Single Infusion, Medium Body</F_MH_NAME>
+<F_MH_NAME>Decoction Mash, Double</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>176.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
@@ -72931,21 +72931,21 @@ Double Ale</F_S_EXAMPLES>
 <F_MH_TUN_DEADSPACE>0.0000000</F_MH_TUN_DEADSPACE>
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
-<F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
+<F_MH_NOTES>Used for some authentic German styles.  Attempt to draw decoction from the thickest portion of the mash.  Profiles vary.  Some traditional German mashes use a long acid rest at 40 deg C.  Also some sources recommend the decoction amount be given a 15 minute saccharification rest at 158 F (70 C) before boiling it.</F_MH_NOTES>
 <steps><_MOD_>2013-10-22</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Owndata>1</Owndata>
 <TID>7149</TID>
-<Size>2</Size>
+<Size>4</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
 <Data><MashStep><_MOD_>1970-10-08</_MOD_>
-<F_MS_NAME>Mash In</F_MS_NAME>
+<F_MS_NAME>Protein Rest</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>896.0000000</F_MS_INFUSION>
-<F_MS_STEP_TEMP>150.0000000</F_MS_STEP_TEMP>
-<F_MS_STEP_TIME>60.0000000</F_MS_STEP_TIME>
+<F_MS_INFUSION>704.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>122.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>35.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
 <F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
@@ -72956,14 +72956,14 @@ Double Ale</F_S_EXAMPLES>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>176.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>155.5811359</F_MS_INFUSION_TEMP>
+<F_MS_INFUSION_TEMP>126.5533743</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 <MashStep><_MOD_>1970-10-08</_MOD_>
-<F_MS_NAME>Mash Out</F_MS_NAME>
-<F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>256.0960000</F_MS_INFUSION>
-<F_MS_STEP_TEMP>168.0000000</F_MS_STEP_TEMP>
+<F_MS_NAME>Saccharification</F_MS_NAME>
+<F_MS_TYPE>1</F_MS_TYPE>
+<F_MS_INFUSION>0.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>147.0000000</F_MS_STEP_TEMP>
 <F_MS_STEP_TIME>20.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
@@ -72971,11 +72971,49 @@ Double Ale</F_S_EXAMPLES>
 <F_MS_TUN_VOL>1280.0000000</F_MS_TUN_VOL>
 <F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
 <F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
-<F_MS_START_TEMP>150.0000000</F_MS_START_TEMP>
+<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
-<F_MS_START_VOL>896.0000000</F_MS_START_VOL>
+<F_MS_START_VOL>704.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>176.0000000</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>235.4825346</F_MS_INFUSION_TEMP>
+<F_MS_INFUSION_TEMP>0.0000000</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>226.1116261</F_MS_DECOCTION_AMT>
+</MashStep>
+<MashStep><_MOD_>1970-06-13</_MOD_>
+<F_MS_NAME>Saccharification</F_MS_NAME>
+<F_MS_TYPE>1</F_MS_TYPE>
+<F_MS_INFUSION>0.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>156.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>20.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>1280.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>704.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>176.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>0.0000000</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>112.7079490</F_MS_DECOCTION_AMT>
+</MashStep>
+<MashStep><_MOD_>1970-06-13</_MOD_>
+<F_MS_NAME>Mash Out</F_MS_NAME>
+<F_MS_TYPE>2</F_MS_TYPE>
+<F_MS_INFUSION>0.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>168.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>10.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>10.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>1280.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>704.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>176.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>170.0000000</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 </Data>
@@ -74853,7 +74891,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES></F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
+<F_R_STYLE><_MOD_>2013-11-08</_MOD_>
 <F_S_NAME>Oatmeal Stout</F_S_NAME>
 <F_S_CATEGORY>Stout</F_S_CATEGORY>
 <F_S_GUIDE>AABC 2010</F_S_GUIDE>
@@ -74920,7 +74958,7 @@ McNeill&rsquo;s Oatmeal Stout, Wild Goose Oatmeal Stout
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Temperature mash for use when mashing in a brew pot over a heat source such as the stove.  Use heat to maintain desired temperature during the mash.</F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2013-11-08</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Owndata>1</Owndata>
@@ -75026,7 +75064,7 @@ McNeill&rsquo;s Oatmeal Stout, Wild Goose Oatmeal Stout
 <F_A_TYPE>0</F_A_TYPE>
 <F_A_NOTES>A simple single stage fermentation, often used by extract brewers or for classic ales.</F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1969-12-31</_MOD_>
+<Ingredients><_MOD_>2013-11-08</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Owndata>1</Owndata>
@@ -75034,7 +75072,7 @@ McNeill&rsquo;s Oatmeal Stout, Wild Goose Oatmeal Stout
 <Size>10</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -75060,7 +75098,7 @@ McNeill&rsquo;s Oatmeal Stout, Wild Goose Oatmeal Stout
 <F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75089,7 +75127,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Victory Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75116,7 +75154,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Pale Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Thomas Fawcett</F_G_SUPPLIER>
@@ -75142,7 +75180,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Barley, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75168,7 +75206,7 @@ Use for: Nut brown ales, porters</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Black Barley (Stout)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75196,7 +75234,7 @@ Gives &quot;dryness&quot; to a stout or porter -- much more so than regular Roas
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 80L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75223,7 +75261,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75542,7 +75580,7 @@ Mouthfeel: Smooth, medium-light to medium body. No harsh hop-derived astringency
 <Size>17</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1969-12-31</_MOD_>
+<Data><Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Pale Malt, Maris Otter</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Maris Otter</F_G_SUPPLIER>
@@ -75568,7 +75606,7 @@ Mouthfeel: Smooth, medium-light to medium body. No harsh hop-derived astringency
 <F_G_PRICE>0.1218750</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75595,7 +75633,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</F_G_NO
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Caramel/Crystal Malt - 10L</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75622,7 +75660,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Honey Malt</F_G_NAME>
 <F_G_ORIGIN>Canada</F_G_ORIGIN>
 <F_G_SUPPLIER>Gambrinus</F_G_SUPPLIER>
@@ -75648,7 +75686,7 @@ Also called &quot;Crystal&quot; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 20L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1969-12-31</_MOD_>
+<Grain><_MOD_>2013-11-08</_MOD_>
 <F_G_NAME>Corn Sugar (Dextrose)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -75743,7 +75781,7 @@ Examples: Sierra Nevada Celebration Ale, Sierra Nevada Bigfoot</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-11-08</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -75813,7 +75851,7 @@ Substitutes: Cascade, Centennial</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.8000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-11-08</_MOD_>
 <F_H_NAME>Crystal</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -75835,7 +75873,7 @@ Substitutes: Hallertauer, Mount Liberty</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.2500000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-11-08</_MOD_>
 <F_H_NAME>Summit</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -75904,7 +75942,7 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.2500000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1969-12-31</_MOD_>
+<Hops><_MOD_>2013-11-08</_MOD_>
 <F_H_NAME>Centennial</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
