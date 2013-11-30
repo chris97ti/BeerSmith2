@@ -1,6 +1,7 @@
 <CustField><_MOD_>2011-01-24</_MOD_>
 <Name>CustField</Name>
 <Type>8031</Type>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8031</TID>
 <Size>11</Size>

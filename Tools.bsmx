@@ -1,6 +1,7 @@
 <Tools><_MOD_>2010-12-24</_MOD_>
 <Name>Tools</Name>
 <Type>7380</Type>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>7380</TID>
 <Size>20</Size>
@@ -115,6 +116,7 @@
 <Hops><_MOD_>2010-12-24</_MOD_>
 <Name>Hops</Name>
 <Type>7405</Type>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>7733</TID>
 <Size>0</Size>
