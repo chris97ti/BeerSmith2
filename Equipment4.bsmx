@@ -1,6 +1,7 @@
 <Equipment><_MOD_>2013-04-03</_MOD_>
 <Name>Equipment</Name>
 <Type>7430</Type>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7430</TID>
 <Size>14</Size>

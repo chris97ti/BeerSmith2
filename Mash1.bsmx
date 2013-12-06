@@ -1,6 +1,7 @@
 <Mash><_MOD_>2013-08-27</_MOD_>
 <Name>Mash</Name>
 <Type>7434</Type>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7434</TID>
 <Size>28</Size>
@@ -26,6 +27,7 @@
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>4</Size>
@@ -135,6 +137,7 @@
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -225,6 +228,7 @@
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>5</Size>
@@ -355,6 +359,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>5</Size>
@@ -483,6 +488,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -573,6 +579,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -663,6 +670,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -754,6 +762,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>4</Size>
@@ -863,6 +872,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -934,6 +944,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -986,6 +997,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1038,6 +1050,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1109,6 +1122,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1161,6 +1175,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1213,6 +1228,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1284,6 +1300,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1336,6 +1353,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1388,6 +1406,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1459,6 +1478,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1530,6 +1550,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1601,6 +1622,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -1691,6 +1713,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -1781,6 +1804,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -1871,6 +1895,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1942,6 +1967,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -2013,6 +2039,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -2084,6 +2111,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>5</Size>
@@ -2212,6 +2240,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>4</Size>
