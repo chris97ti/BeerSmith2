@@ -1,18 +1,13 @@
 <Plugin><_MOD_>2011-04-20</_MOD_>
 <Name>Plugin</Name>
 <Type>8344</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8344</TID>
 <Size>20</Size>
 <_XName>Plugin</_XName>
 <Allocinc>16</Allocinc>
 <Data><Plugin><_MOD_>2013-10-19</_MOD_>
-<F_PLUG_NAME>Briess Malts (66 grains)</F_PLUG_NAME>
-<F_PLUG_TYPE>7406</F_PLUG_TYPE>
-<F_PLUG_FILE>Briess.bsmx</F_PLUG_FILE>
-</Plugin>
-<Plugin><_MOD_>2013-10-16</_MOD_>
 <F_PLUG_NAME>Thomas Fawcett Malts (14 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Thomas_Fawcett.bsmx</F_PLUG_FILE>
@@ -52,60 +47,65 @@
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Stout.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-10-16</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Browns and Milds(18 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Browns-Milds.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-12-02</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Belgian (30 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Belgian.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2013-12-02</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Ambers and Reds (12 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Amber-Red.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2013-11-27</_MOD_>
+<Plugin><_MOD_>2013-12-02</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Porters (13 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Porter.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2013-11-27</_MOD_>
+<Plugin><_MOD_>2013-11-29</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Lagers (27 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Lager.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2029-03-20</_MOD_>
+<Plugin><_MOD_>2013-11-29</_MOD_>
 <F_PLUG_NAME>Northern Brewer - Old Ale and Barleywine (7 recipes)</F_PLUG_NAME>
 <F_PLUG_TYPE>7372</F_PLUG_TYPE>
 <F_PLUG_FILE>NB-Old-Ale.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1977-01-04</_MOD_>
+<Plugin><_MOD_>2029-03-20</_MOD_>
 <F_PLUG_NAME>Yeast Update 2013 - New Yeasts (29 yeasts)</F_PLUG_NAME>
 <F_PLUG_TYPE>7426</F_PLUG_TYPE>
 <F_PLUG_FILE>Yeast-update.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2013-11-27</_MOD_>
+<Plugin><_MOD_>1977-01-04</_MOD_>
 <F_PLUG_NAME>Weyermann Malts (30 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Weyermann.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1973-02-24</_MOD_>
+<Plugin><_MOD_>2013-11-29</_MOD_>
 <F_PLUG_NAME>Candy Syrups (8 syrups)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>CandiSyrupProducts.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2004-09-21</_MOD_>
+<Plugin><_MOD_>1973-02-24</_MOD_>
 <F_PLUG_NAME>Yeast Update 2013 - Yeasts included in V2.2 (29 yeasts)</F_PLUG_NAME>
 <F_PLUG_TYPE>7426</F_PLUG_TYPE>
 <F_PLUG_FILE>Yeast-update.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>1969-12-31</_MOD_>
+<Plugin><_MOD_>2004-09-21</_MOD_>
 <F_PLUG_NAME>Hop Update 2013 - Hops included in V2.2 (63 hops)</F_PLUG_NAME>
 <F_PLUG_TYPE>7403</F_PLUG_TYPE>
 <F_PLUG_FILE>Hop-Update-2013.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2013-12-02</_MOD_>
+<F_PLUG_NAME>Briess Malts (66 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>Briess.bsmx</F_PLUG_FILE>
 </Plugin>
 </Data>
 <_TExpanded>1</_TExpanded>
