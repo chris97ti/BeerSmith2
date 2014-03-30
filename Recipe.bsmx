@@ -77661,7 +77661,7 @@ Substitutes: East Kent Goldings, Crystal</F_H_NOTES>
 <F_R_DESIRED_OG>1.0560000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-12-09</_MOD_>
+<Recipe><_MOD_>2014-03-15</_MOD_>
 <F_R_NAME>The Dude&#39;s Fat Tire Clone</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -77703,28 +77703,31 @@ Substitutes: East Kent Goldings, Crystal</F_H_NOTES>
 </F_R_EQUIPMENT>
 <F_R_STYLE><_MOD_>2013-12-02</_MOD_>
 <F_S_NAME>American Amber Ale</F_S_NAME>
-<F_S_CATEGORY>American Pale Ale</F_S_CATEGORY>
-<F_S_GUIDE>BJCP 1999</F_S_GUIDE>
+<F_S_CATEGORY>American Ale</F_S_CATEGORY>
+<F_S_GUIDE>BJCP 2008</F_S_GUIDE>
 <F_S_LETTER>2</F_S_LETTER>
-<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_NUMBER>10</F_S_NUMBER>
 <F_S_TYPE>0</F_S_TYPE>
 <F_S_MIN_OG>1.0450000</F_S_MIN_OG>
-<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
 <F_S_MIN_FG>1.0100000</F_S_MIN_FG>
 <F_S_MAX_FG>1.0150000</F_S_MAX_FG>
-<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
 <F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
 <F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
 <F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
-<F_S_MIN_COLOR>11.0000000</F_S_MIN_COLOR>
-<F_S_MAX_COLOR>18.0000000</F_S_MAX_COLOR>
+<F_S_MIN_COLOR>10.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.0000000</F_S_MAX_COLOR>
 <F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
-<F_S_MAX_ABV>5.7000000</F_S_MAX_ABV>
-<F_S_DESCRIPTION>Variation of the American Pale Ale style from the West Coast.  Slightly darker in color and more caramel flavor than American Pale.</F_S_DESCRIPTION>
-<F_S_PROFILE>Medium body, less malty with noticable caramel/crystal malt flavor.  Medium to high hop rate with corresponding aroma.  Light copper to brown in color.  Fruity and estery with low diacetyl.  Moderate carbonation.</F_S_PROFILE>
-<F_S_INGREDIENTS>American 2-row Pale Malt. Medium to dark crystal malt. American hops.  Dry hopping for aroma.  American ale yeast.</F_S_INGREDIENTS>
-<F_S_EXAMPLES>North Coast Red Seal Ale, Fat Tire Amber Ale, Full Sail Amber Ale</F_S_EXAMPLES>
-<F_S_WEB_LINK></F_S_WEB_LINK>
+<F_S_MAX_ABV>6.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Like an American pale ale with more body, more caramel richness, and a balance more towards malt than hops (although hop rates can be significant). Known simply as Red Ales in some regions, these beers were popularized in the hop-loving Northern California and the Pacific Northwest areas before spreading nationwide. Can overlap in color with American pale ales. However, American amber ales differ from American pale ales not only by being usually darker in color, but also by having more caramel flavor, more body, and usually being balanced more evenly between malt and bitterness. Should not have a strong chocolate or roast character that might suggest an American brown ale (although small amounts are OK).</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Low to moderate hop aroma from dry hopping or late kettle additions of American hop varieties. A citrusy hop character is common, but not required. Moderately low to moderately high maltiness balances and sometimes masks the hop presentation, and usually shows a moderate caramel character. Esters vary from moderate to none. No diacetyl.
+Appearance: Amber to coppery brown in color. Moderately large off-white head with good retention. Generally quite clear, although dry-hopped versions may be slightly hazy.
+Flavor: Moderate to high hop flavor from American hop varieties, which often but not always has a citrusy quality. Malt flavors are moderate to strong, and usually show an initial malty sweetness followed by a moderate caramel flavor (and sometimes other character malts in lesser amounts). Malt and hop bitterness are usually balanced and mutually supportive. Fruity esters can be moderate to none. Caramel sweetness and hop flavor/bitterness can linger somewhat into the medium to full finish. No diacetyl.
+Mouthfeel: Medium to medium-full body. Carbonation moderate to high. Overall smooth finish without astringency often associated with high hopping rates. Stronger versions may have a slight alcohol warmth.</F_S_PROFILE>
+<F_S_INGREDIENTS>Pale ale malt, typically American two-row. Medium to dark crystal malts. May contain specialty grains which add character and uniqueness. American hops, often with citrusy flavors, are common but others may also be used. Water can vary in sulfate &amp; carbonate content.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>North Coast Red Seal Ale, Tr&ouml;egs HopBack Amber Ale, Deschutes Cinder Cone Red, Pyramid Broken Rake, St. Rogue Red Ale, Anderson Valley Boont Amber Ale, Lagunitas Censored Ale, Avery Redpoint Ale, McNeill&#39;s Firehouse Amber Ale, Mendocino Red Tail Ale, Bell&#39;s Amber</F_S_EXAMPLES>
+<F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2013-12-02</_MOD_>
 <F_MH_NAME>Temperature Mash, 1 Step, Medium Body</F_MH_NAME>
@@ -77752,7 +77755,7 @@ Substitutes: East Kent Goldings, Crystal</F_H_NOTES>
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2013-12-02</_MOD_>
+<Data><MashStep><_MOD_>1969-12-31</_MOD_>
 <F_MS_NAME>Saccharification</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>448.0000000</F_MS_INFUSION>
@@ -77771,7 +77774,7 @@ Substitutes: East Kent Goldings, Crystal</F_H_NOTES>
 <F_MS_INFUSION_TEMP>163.2923682</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2013-12-02</_MOD_>
+<MashStep><_MOD_>1969-12-31</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -77860,7 +77863,7 @@ Substitutes: East Kent Goldings, Crystal</F_H_NOTES>
 <Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2013-12-02</_MOD_>
+<Data><Grain><_MOD_>1978-09-28</_MOD_>
 <F_G_NAME>Pale Malt (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -77888,7 +77891,7 @@ Higher potential yield than US, English equivalent pale ale malts</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-12-02</_MOD_>
+<Grain><_MOD_>2014-03-15</_MOD_>
 <F_G_NAME>Munich (Dingemans)</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER>Dingemans</F_G_SUPPLIER>
@@ -77915,7 +77918,7 @@ Higher potential yield than US, English equivalent pale ale malts</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>LME Sparkling Amber Liquid (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-12-03</_MOD_>
+<Grain><_MOD_>2014-03-15</_MOD_>
 <F_G_NAME>Biscuit (Dingemans)</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER>Dingemans</F_G_SUPPLIER>
@@ -77942,7 +77945,7 @@ Higher potential yield than US, English equivalent pale ale malts</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-12-02</_MOD_>
+<Grain><_MOD_>2014-03-15</_MOD_>
 <F_G_NAME>Caramel Malt - 20L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -77974,7 +77977,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-12-03</_MOD_>
+<Grain><_MOD_>2014-03-15</_MOD_>
 <F_G_NAME>Caramel Malt - 40L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -78006,7 +78009,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-12-02</_MOD_>
+<Grain><_MOD_>2014-03-15</_MOD_>
 <F_G_NAME>Special Roast (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -78036,7 +78039,7 @@ Special processing develops unique Toasty, Biscuity, Sour, Tangy flavors distinc
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2013-12-09</_MOD_>
+<Grain><_MOD_>2014-03-15</_MOD_>
 <F_G_NAME>Midnight Wheat (added)</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -78069,7 +78072,7 @@ Special processing develops unique Toasty, Biscuity, Sour, Tangy flavors distinc
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2013-12-02</_MOD_>
+<Hops><_MOD_>2014-03-15</_MOD_>
 <F_H_NAME>Willamette</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -78092,7 +78095,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9500000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-02-05</_MOD_>
+<Hops><_MOD_>2014-03-15</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -78117,7 +78120,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-02-05</_MOD_>
+<Hops><_MOD_>2014-03-15</_MOD_>
 <F_H_NAME>Fuggle</F_H_NAME>
 <F_H_ORIGIN>United Kingdom</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -78142,7 +78145,7 @@ Storage: Good/Very Good (70-80% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-02-05</_MOD_>
+<Hops><_MOD_>1978-08-17</_MOD_>
 <F_H_NAME>Willamette</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -78165,7 +78168,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9500000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2013-12-02</_MOD_>
+<Yeast><_MOD_>2014-03-15</_MOD_>
 <F_Y_NAME>California Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP001</F_Y_PRODUCT_ID>
@@ -81382,7 +81385,7 @@ Substitutes: Hallertauer Mittelfrueh, Liberty, Ultra</F_H_NOTES>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
 </Data>
-<_TExpanded>0</_TExpanded>
+<_TExpanded>1</_TExpanded>
 </Table>
 </Data>
 <_TExpanded>1</_TExpanded>
