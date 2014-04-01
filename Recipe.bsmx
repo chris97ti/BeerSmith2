@@ -8397,7 +8397,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_R_DESIRED_OG>1.0500000</F_R_DESIRED_OG>
 <F_R_REBALANCE_SCALE>0</F_R_REBALANCE_SCALE>
 </Recipe>
-<Recipe><_MOD_>2013-11-27</_MOD_>
+<Recipe><_MOD_>2014-03-31</_MOD_>
 <F_R_NAME>Westmalle Dubbel clone</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -8822,7 +8822,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
 <F_R_OG_MEASURED>1.0620000</F_R_OG_MEASURED>
-<F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
+<F_R_FG_MEASURED>1.0040000</F_R_FG_MEASURED>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_BOIL_VOL_MEASURED>1024.0000000</F_R_BOIL_VOL_MEASURED>
@@ -77755,7 +77755,7 @@ Mouthfeel: Medium to medium-full body. Carbonation moderate to high. Overall smo
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2014-03-31</_MOD_>
 <F_MS_NAME>Saccharification</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>448.0000000</F_MS_INFUSION>
@@ -77774,7 +77774,7 @@ Mouthfeel: Medium to medium-full body. Carbonation moderate to high. Overall smo
 <F_MS_INFUSION_TEMP>163.2923682</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1969-12-31</_MOD_>
+<MashStep><_MOD_>2014-03-31</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
