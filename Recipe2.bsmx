@@ -1,7 +1,7 @@
 <Recipe><_MOD_>2013-12-03</_MOD_>
 <Name>Recipe</Name>
 <Type>7372</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7372</TID>
 <Size>2</Size>
@@ -9725,7 +9725,7 @@ Special processing develops unique Toasty, Biscuity, Sour, Tangy flavors distinc
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2014-04-21</_MOD_>
+<Grain><_MOD_>2014-04-22</_MOD_>
 <F_G_NAME>Midnight Wheat (added)</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>

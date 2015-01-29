@@ -1,13 +1,13 @@
 <Advanced-Search><_MOD_>1970-07-14</_MOD_>
 <Name>Advanced Search</Name>
 <Type>8894</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8894</TID>
 <Size>1</Size>
 <_XName>Advanced Search</_XName>
 <Allocinc>16</Allocinc>
-<Data><search><_MOD_>2013-11-27</_MOD_>
+<Data><search><_MOD_>2013-11-29</_MOD_>
 <F_AS_SEARCH></F_AS_SEARCH>
 <F_AS_INGREDIENTS>1</F_AS_INGREDIENTS>
 <F_AS_SUBFOLDERS>1</F_AS_SUBFOLDERS>
