@@ -1,13 +1,13 @@
-<Selections><_MOD_>1978-09-18</_MOD_>
-<Name>Selections</Name>
+<Recipe><_MOD_>1969-12-31</_MOD_>
+<Name>Recipes</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
 <Owndata>0</Owndata>
-<TID>1</TID>
+<TID>7372</TID>
 <Size>1</Size>
-<_XName>Selections</_XName>
+<_XName>Recipes</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2014-05-30</_MOD_>
+<Data><Recipe><_MOD_>2015-03-21</_MOD_>
 <F_R_NAME>Nearly Nirvana Pale Ale german twist</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -493,4 +493,4 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 </Recipe>
 </Data>
 <_TExpanded>1</_TExpanded>
-</Selections>
+</Recipe>

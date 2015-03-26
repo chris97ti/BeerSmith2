@@ -1,7 +1,7 @@
 <Recipe><_MOD_>2013-12-03</_MOD_>
 <Name>Recipe</Name>
 <Type>7372</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7372</TID>
 <Size>2</Size>
@@ -10264,7 +10264,7 @@ Aroma: Delicate floral and fruity tones
 Substitutes: Northern Brewer, Perle (U.S.), Hallertau Mittelfruh, Hallertau Aroma
 Storage: Good
 6-10% AA / 2.5-5% Beta</F_H_NOTES>
-<F_H_IBU_CONTRIB>26.5922119</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>26.5922103</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -10288,7 +10288,7 @@ Used for: American ales and lagers
 Aroma: Strong spicy, floral, grapefruit character
 Substitutes: Centennial
 Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>11.0218161</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>11.0218154</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -10312,7 +10312,7 @@ Used for: American ales and lagers
 Aroma: Strong spicy, floral, grapefruit character
 Substitutes: Centennial
 Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>4.4281202</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>4.4281199</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>

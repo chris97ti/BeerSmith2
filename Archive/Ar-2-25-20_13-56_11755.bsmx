@@ -1,14 +1,14 @@
-<Selections><_MOD_>1978-09-18</_MOD_>
-<Name>Selections</Name>
+<Recipe><_MOD_>1969-12-31</_MOD_>
+<Name>Recipes</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
 <Owndata>0</Owndata>
-<TID>1</TID>
+<TID>7372</TID>
 <Size>1</Size>
-<_XName>Selections</_XName>
+<_XName>Recipes</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2014-05-30</_MOD_>
-<F_R_NAME>Nearly Nirvana Pale Ale german twist</F_R_NAME>
+<Data><Recipe><_MOD_>2015-03-25</_MOD_>
+<F_R_NAME>Pale Ale German Twist</F_R_NAME>
 <F_R_BREWER>Chris</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2014-04-02</F_R_DATE>
@@ -32,12 +32,12 @@
 <F_E_TUN_DEADSPACE>38.4000000</F_E_TUN_DEADSPACE>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
-<F_E_BOIL_VOL>870.9120000</F_E_BOIL_VOL>
+<F_E_BOIL_VOL>877.5680000</F_E_BOIL_VOL>
 <F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
 <F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
 <F_EQUIP_39>1</F_EQUIP_39>
 <F_E_BOIL_OFF>192.0000000</F_E_BOIL_OFF>
-<F_E_TRUB_LOSS>12.8000000</F_E_TRUB_LOSS>
+<F_E_TRUB_LOSS>19.2000000</F_E_TRUB_LOSS>
 <F_E_COOL_PCT>4.0000000</F_E_COOL_PCT>
 <F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
 <F_E_BATCH_VOL>640.0000000</F_E_BATCH_VOL>
@@ -77,7 +77,7 @@ Mouthfeel: Medium-light to medium body. Carbonation moderate to high. Overall sm
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2014-04-02</_MOD_>
 <F_MH_NAME>Temperature Mash, 1 Step, Medium Body</F_MH_NAME>
-<F_MH_GRAIN_WEIGHT>168.8000000</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_WEIGHT>169.6000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
 <F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
@@ -101,10 +101,10 @@ Mouthfeel: Medium-light to medium body. Carbonation moderate to high. Overall sm
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2014-05-30</_MOD_>
+<Data><MashStep><_MOD_>1969-12-31</_MOD_>
 <F_MS_NAME>Saccharification</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>422.0000000</F_MS_INFUSION>
+<F_MS_INFUSION>424.0000000</F_MS_INFUSION>
 <F_MS_STEP_TEMP>152.0000000</F_MS_STEP_TEMP>
 <F_MS_STEP_TIME>60.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>15.0000000</F_MS_RISE_TIME>
@@ -116,11 +116,11 @@ Mouthfeel: Medium-light to medium body. Carbonation moderate to high. Overall sm
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>168.8000000</F_MS_GRAIN_WEIGHT>
+<F_MS_GRAIN_WEIGHT>169.6000000</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>163.6566382</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2014-05-30</_MOD_>
+<MashStep><_MOD_>1969-12-31</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -134,8 +134,8 @@ Mouthfeel: Medium-light to medium body. Carbonation moderate to high. Overall sm
 <F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
-<F_MS_START_VOL>422.0000000</F_MS_START_VOL>
-<F_MS_GRAIN_WEIGHT>168.8000000</F_MS_GRAIN_WEIGHT>
+<F_MS_START_VOL>424.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>169.6000000</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>182.0000000</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
@@ -206,10 +206,10 @@ Mouthfeel: Medium-light to medium body. Carbonation moderate to high. Overall sm
 <Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>9</Size>
+<Size>10</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>1978-10-17</_MOD_>
+<Data><Grain><_MOD_>2015-03-25</_MOD_>
 <F_G_NAME>Pale Ale Malt 2-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -220,7 +220,7 @@ Mouthfeel: Medium-light to medium body. Carbonation moderate to high. Overall sm
 <F_G_COLOR>3.5000000</F_G_COLOR>
 <F_G_YIELD>80.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>85.3080569</F_G_PERCENT>
+<F_G_PERCENT>84.9056604</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>1</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -240,7 +240,7 @@ Use with 2-Row Brewers Malt for rich malt flavor and additional color.</F_G_NOTE
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Sparkling Amber Liquid (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1978-10-17</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -251,7 +251,7 @@ Use with 2-Row Brewers Malt for rich malt flavor and additional color.</F_G_NOTE
 <F_G_COLOR>60.0000000</F_G_COLOR>
 <F_G_YIELD>73.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>9.4786730</F_G_PERCENT>
+<F_G_PERCENT>9.4339623</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>2</F_ORDER>
 <F_G_COARSE_FINE_DIFF>0.0000000</F_G_COARSE_FINE_DIFF>
@@ -272,7 +272,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1978-10-17</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Melanoidin (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -283,7 +283,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_COLOR>30.0000000</F_G_COLOR>
 <F_G_YIELD>80.0700000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>2.8436019</F_G_PERCENT>
+<F_G_PERCENT>2.8301887</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>3</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
@@ -299,18 +299,18 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carared</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1978-10-17</_MOD_>
+<Grain><_MOD_>1978-10-11</_MOD_>
 <F_G_NAME>Wheat - White Malt (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
-<F_G_AMOUNT>4.0000000</F_G_AMOUNT>
+<F_G_AMOUNT>4.8000000</F_G_AMOUNT>
 <F_G_COLOR>2.3000000</F_G_COLOR>
 <F_G_YIELD>85.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
-<F_G_PERCENT>2.3696682</F_G_PERCENT>
+<F_G_PERCENT>2.8301887</F_G_PERCENT>
 <F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>4</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.0000000</F_G_COARSE_FINE_DIFF>
@@ -329,14 +329,14 @@ White Wheat Malt contributes to foam production and foam stability.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2014-05-30</_MOD_>
+<Hops><_MOD_>1969-12-31</_MOD_>
 <F_H_NAME>Perle</F_H_NAME>
 <F_H_ORIGIN>Germany</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>8.5000000</F_H_ALPHA>
-<F_H_BETA>4.7500000</F_H_BETA>
-<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_ALPHA>8.7000000</F_H_ALPHA>
+<F_H_BETA>1.3000000</F_H_BETA>
+<F_H_PERCENT>18.1965449</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.7896700</F_H_AMOUNT>
 <F_H_HSI>25.0000000</F_H_HSI>
@@ -348,22 +348,22 @@ Aroma: Delicate floral and fruity tones
 Substitutes: Northern Brewer, Perle (U.S.), Hallertau Mittelfruh, Hallertau Aroma
 Storage: Good
 6-10% AA / 2.5-5% Beta</F_H_NOTES>
-<F_H_IBU_CONTRIB>26.5922103</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>26.8788866</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.7900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2014-05-30</_MOD_>
+<Hops><_MOD_>1969-12-31</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>7.1000000</F_H_ALPHA>
-<F_H_BETA>6.6000000</F_H_BETA>
-<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_ALPHA>6.4000000</F_H_ALPHA>
+<F_H_BETA>7.7000000</F_H_BETA>
+<F_H_PERCENT>19.5867428</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>0.7896700</F_H_AMOUNT>
+<F_H_AMOUNT>0.8500000</F_H_AMOUNT>
 <F_H_HSI>50.0000000</F_H_HSI>
 <F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
@@ -372,22 +372,22 @@ Used for: American ales and lagers
 Aroma: Strong spicy, floral, grapefruit character
 Substitutes: Centennial
 Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>11.0218154</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>10.5609882</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.2500000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2014-05-30</_MOD_>
+<Hops><_MOD_>1969-12-31</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>7.1000000</F_H_ALPHA>
-<F_H_BETA>6.6000000</F_H_BETA>
-<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_ALPHA>6.4000000</F_H_ALPHA>
+<F_H_BETA>7.7000000</F_H_BETA>
+<F_H_PERCENT>19.5867428</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>0.7896700</F_H_AMOUNT>
+<F_H_AMOUNT>0.8500000</F_H_AMOUNT>
 <F_H_HSI>50.0000000</F_H_HSI>
 <F_H_BOIL_TIME>5.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
@@ -396,22 +396,22 @@ Used for: American ales and lagers
 Aroma: Strong spicy, floral, grapefruit character
 Substitutes: Centennial
 Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>4.4281199</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>4.2429782</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.2500000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2014-05-30</_MOD_>
+<Hops><_MOD_>1969-12-31</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>7.1000000</F_H_ALPHA>
-<F_H_BETA>6.6000000</F_H_BETA>
-<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_ALPHA>6.4000000</F_H_ALPHA>
+<F_H_BETA>7.7000000</F_H_BETA>
+<F_H_PERCENT>19.5867428</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>0.7896700</F_H_AMOUNT>
+<F_H_AMOUNT>0.8500000</F_H_AMOUNT>
 <F_H_HSI>50.0000000</F_H_HSI>
 <F_H_BOIL_TIME>1.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
@@ -420,13 +420,13 @@ Used for: American ales and lagers
 Aroma: Strong spicy, floral, grapefruit character
 Substitutes: Centennial
 Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
-<F_H_IBU_CONTRIB>0.9578518</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>0.9178035</F_H_IBU_CONTRIB>
 <F_ORDER>8</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.2500000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2014-05-30</_MOD_>
+<Yeast><_MOD_>1969-12-31</_MOD_>
 <F_Y_NAME>California Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP001</F_Y_PRODUCT_ID>
@@ -455,6 +455,30 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_Y_NOTES>Very clean flavor, balance and stability.  Accentuates hop flavor
 Versitile - can be used to make any style ale.</F_Y_NOTES>
 </Yeast>
+<Hops><_MOD_>1969-12-31</_MOD_>
+<F_H_NAME>Cascade</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>2</F_H_FORM>
+<F_H_ALPHA>7.9000000</F_H_ALPHA>
+<F_H_BETA>6.0000000</F_H_BETA>
+<F_H_PERCENT>23.0432268</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0000000</F_H_AMOUNT>
+<F_H_HSI>50.0000000</F_H_HSI>
+<F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>7.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>A hops with Northern Brewers Heritage
+Used for: American ales and lagers
+Aroma: Strong spicy, floral, grapefruit character
+Substitutes: Centennial
+Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
+<F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
+<F_ORDER>10</F_ORDER>
+<F_H_USE>1</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>2.2500000</F_H_PRICE>
+</Hops>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
@@ -465,7 +489,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_R_FG_MEASURED>1.0120000</F_R_FG_MEASURED>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
-<F_R_BOIL_VOL_MEASURED>640.0000000</F_R_BOIL_VOL_MEASURED>
+<F_R_BOIL_VOL_MEASURED>883.2000000</F_R_BOIL_VOL_MEASURED>
 <F_R_OG_BOIL_MEASURED>1.0500000</F_R_OG_BOIL_MEASURED>
 <F_R_NOTES>https://www.brewtoad.com/recipes/nearly-nirvana-pale-ale
 
@@ -493,4 +517,4 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 </Recipe>
 </Data>
 <_TExpanded>1</_TExpanded>
-</Selections>
+</Recipe>
